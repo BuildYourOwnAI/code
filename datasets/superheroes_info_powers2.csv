@@ -1,771 +1,739 @@
 name,Gender,Race,Height,Publisher,Alignment,Weight,OPR,SDR,PCA_Power_Score
-A-Bomb,Male,Human,203.0,Marvel Comics,good,441.0,1.0,0.0,-0.8760156803972838
-Abe Sapien,Male,Icthyo Sapien,191.0,Dark Horse Comics,good,65.0,2.0,0.0,0.6676354203273033
-Abin Sur,Male,Ungaran,185.0,DC Comics,good,90.0,0.0,0.0,-2.3175085070969748
-Abomination,Male,Human / Radiation,203.0,Marvel Comics,bad,441.0,1.0,1.0,0.6953388915574881
-Abraxas,Male,Cosmic Entity,876.0,Marvel Comics,bad,16.0,1.0,2.0,3.8683261337228076
-Absorbing Man,Male,Human,193.0,Marvel Comics,bad,122.0,1.0,2.0,0.8425338753533953
-Adam Monroe,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-1.4938960439337075
-Adam Strange,Male,Human,185.0,DC Comics,good,88.0,1.0,0.0,-0.9292216967270809
+A-Bomb,Male,Human,203.0,Marvel Comics,good,441.0,1.0,2.0,-0.9
+Abe Sapien,Male,Icthyo Sapien,191.0,Dark Horse Comics,good,65.0,3.0,2.0,0.7
+Abin Sur,Male,Ungaran,185.0,DC Comics,good,90.0,0.0,0.0,-2.3
+Abomination,Male,Human / Radiation,203.0,Marvel Comics,bad,441.0,1.0,1.0,0.7
+Abraxas,Male,Cosmic Entity,876.0,Marvel Comics,bad,16.0,2.0,3.0,3.8
+Absorbing Man,Male,Human,193.0,Marvel Comics,bad,122.0,1.0,3.0,0.8
+Adam Monroe,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,2.0,-1.5
+Adam Strange,Male,Human,185.0,DC Comics,good,88.0,2.0,1.0,-0.9
 Agent 13,Female,Human,173.0,Marvel Comics,good,61.0,,,
-Agent Bob,Male,Human,178.0,Marvel Comics,good,81.0,0.0,0.0,-2.428691085508436
-Agent Zero,Male,,191.0,Marvel Comics,good,104.0,2.0,1.0,-0.8571729615903098
-Air-Walker,Male,Celestial,188.0,Marvel Comics,bad,108.0,1.0,0.0,-0.32811664609631697
-Ajax,Male,Cyborg,193.0,Marvel Comics,bad,90.0,1.0,0.0,-1.4831985784417347
-Alan Scott,Male,Kryptonian,180.0,DC Comics,good,90.0,1.0,2.0,2.9627598276992493
-Alex Mercer,Male,Human,179.55633802816902,Wildstorm,bad,96.3623188405797,3.0,2.0,4.31095009970365
-Alex Woolsly,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.413765533473652
+Agent Bob,Male,Human,178.0,Marvel Comics,good,81.0,0.0,0.0,-2.4
+Agent Zero,Male,Mutant,191.0,Marvel Comics,good,104.0,2.0,1.0,-0.9
+Air-Walker,Male,Xandarian,188.0,Marvel Comics,bad,108.0,1.0,0.0,-0.4
+Ajax,Male,Cyborg,193.0,Marvel Comics,bad,90.0,1.0,0.0,-1.5
+Alan Scott,Male,Human,180.0,DC Comics,good,90.0,1.0,3.0,2.9
+Alex Mercer,Male,Human,179.4,Wildstorm,bad,95.9,4.0,4.0,4.4
+Alex Woolsly,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.4
 Alfred Pennyworth,Male,Human,178.0,DC Comics,good,72.0,,,
-Alien,Male,Xenomorph XX121,244.0,Dark Horse Comics,bad,169.0,1.0,0.0,-0.5976984433220733
-Allan Quatermain,Male,Human,179.55633802816902,Wildstorm,good,96.3623188405797,0.0,0.0,-2.416983838973134
-Amazo,Male,Android,257.0,DC Comics,bad,173.0,2.0,3.0,12.532184441712282
-Ammo,Male,Human,188.0,Marvel Comics,bad,101.0,1.0,0.0,-2.510908451280351
-Ando Masahashi,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.1671779946333958
-Angel,Male,Angel,183.0,Marvel Comics,good,68.0,1.0,0.0,2.0041168494193373
-Angel,Male,Angel,183.0,Marvel Comics,good,68.0,1.0,0.0,2.0041168494193373
-Angel,Male,Vampire,188.0,Dark Horse Comics,good,97.0,1.0,0.0,2.0041168494193373
-Angel,Male,Vampire,188.0,Dark Horse Comics,good,97.0,1.0,0.0,2.0041168494193373
-Angel Dust,Female,Mutant,165.0,Marvel Comics,good,57.0,1.0,0.0,-1.733172978050093
-Angel Salvadore,Female,Mutant,163.0,Marvel Comics,good,54.0,0.0,0.0,-2.2050452127242726
-Angela,Female,Angels,,Image Comics,bad,,0.0,0.0,-2.160144894119433
-Animal Man,Male,Human,183.0,DC Comics,good,83.0,1.0,0.0,-1.6809376737662585
-Annihilus,Male,insectoid,180.0,Marvel Comics,bad,90.0,1.0,0.0,-1.2264345912258023
-Ant-Man,Male,Human,211.0,Marvel Comics,good,122.0,0.0,0.0,-1.8797012096999417
-Ant-Man II,Male,Human,183.0,Marvel Comics,good,86.0,1.0,0.0,-0.560253725571551
-Anti-Monitor,Male,God / Eternal,61.0,DC Comics,bad,209.5,2.0,3.0,8.865011282860284
-Anti-Spawn,Male,,,Image Comics,bad,,2.0,1.0,-0.6560288030221071
-Anti-Venom,Male,Symbiote,229.0,Marvel Comics,,358.0,1.0,0.0,-0.2452577298122064
-Apocalypse,Male,Mutant,213.0,Marvel Comics,bad,135.0,3.0,4.0,5.485827990932982
-Aquababy,Male,,,DC Comics,good,,1.0,0.0,-1.8347584666785128
-Aqualad,Male,Atlantean,178.0,DC Comics,good,106.0,1.0,0.0,0.9690367202883958
-Aquaman,Male,Atlantean,185.0,DC Comics,good,146.0,1.0,1.0,2.9437049849811183
-Arachne,Female,Human,175.0,Marvel Comics,good,63.0,1.0,0.0,-0.7121594243358015
-Archangel,Male,Mutant,183.0,Marvel Comics,good,68.0,1.0,0.0,-0.9445583094662512
-Arclight,Female,,173.0,Marvel Comics,bad,57.0,1.0,0.0,-2.185880892926033
-Ardina,Female,Alien,193.0,Marvel Comics,good,98.0,2.0,1.0,2.3733705699173524
-Ares,Male,Olympian,185.0,Marvel Comics,good,270.0,1.0,0.0,-0.728950469654225
-Ariel,Female,,165.0,Marvel Comics,good,59.0,0.0,1.0,-1.5805997930111821
-Armor,Female,Mutant,163.0,Marvel Comics,good,50.0,1.0,0.0,-1.934371549118332
-Arsenal,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,,,
-Astro Boy,Male,Robot,,,good,,2.0,0.0,-0.25140515405505875
-Atlas,Male,Mutant,183.0,Marvel Comics,good,101.0,1.0,1.0,0.29797764434171964
-Atlas,Male,Mutant,183.0,Marvel Comics,good,101.0,1.0,1.0,0.29797764434171964
-Atlas,Male,God / Eternal,198.0,DC Comics,bad,126.0,1.0,1.0,0.29797764434171964
-Atlas,Male,God / Eternal,198.0,DC Comics,bad,126.0,1.0,1.0,0.29797764434171964
-Atom,Male,Human,178.0,DC Comics,good,68.0,1.0,0.0,-0.7063790863578089
-Atom,Male,Human,178.0,DC Comics,good,68.0,1.0,0.0,-0.7063790863578089
-Atom,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-0.7063790863578089
-Atom,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-0.7063790863578089
-Atom Girl,Female,Human,168.0,DC Comics,good,54.0,0.0,0.0,-2.1220570668826313
-Atom II,Male,Human,183.0,DC Comics,good,81.0,1.0,0.0,-1.0435645429143847
-Atom III,Male,,,DC Comics,good,,0.0,0.0,-2.1220570668826313
-Atom IV,Male,Human,179.55633802816902,DC Comics,good,72.0,0.0,0.0,-2.2427337572971884
-Aurora,Female,Mutant,180.0,Marvel Comics,good,63.0,1.0,0.0,-0.06502636394657763
-Azazel,Male,Neyaphem,183.0,Marvel Comics,bad,67.0,0.0,1.0,-0.3500502194635567
-Azrael,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.983214579694866
-Aztar,Male,Alien,201.66666666666663,DC Comics,good,150.33333333333334,1.0,2.0,3.2285314363561968
-Bane,Male,Human,203.0,DC Comics,bad,180.0,1.0,0.0,-1.3416484886874152
-Banshee,Male,Human,183.0,Marvel Comics,good,77.0,0.0,1.0,-1.6338310251558652
-Bantam,Male,Human,165.0,Marvel Comics,good,54.0,1.0,0.0,-2.013638265794886
-Batgirl,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.0145893460791893
-Batgirl,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.0145893460791893
-Batgirl,Female,Human,170.0,DC Comics,good,57.0,1.0,0.0,-2.0145893460791893
-Batgirl,Female,Human,170.0,DC Comics,good,57.0,1.0,0.0,-2.0145893460791893
-Batgirl III,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,,,
-Batgirl IV,Female,Human,165.0,DC Comics,good,52.0,1.0,0.0,-2.2848111186270055
-Batgirl V,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,,,
-Batgirl VI,Female,Human,168.0,DC Comics,good,61.0,0.0,0.0,-2.208460373386068
-Batman,Male,Human,188.0,DC Comics,good,95.0,2.0,0.0,-0.8079970273090407
-Batman,Male,Human,188.0,DC Comics,good,95.0,2.0,0.0,-0.8079970273090407
-Batman,Male,Human,178.0,DC Comics,good,77.0,2.0,0.0,-0.8079970273090407
-Batman,Male,Human,178.0,DC Comics,good,77.0,2.0,0.0,-0.8079970273090407
-Batman II,Male,Human,178.0,DC Comics,good,79.0,1.0,0.0,-2.1097695914669243
-Battlestar,Male,,198.0,Marvel Comics,good,133.0,1.0,0.0,-1.5236895952406309
-Batwoman V,Female,Human,178.0,DC Comics,good,96.3623188405797,1.0,0.0,-2.0099196813316147
-Beak,Male,Mutant,175.0,Marvel Comics,good,63.0,0.0,0.0,-1.872671757472463
-Beast,Male,Mutant,180.0,Marvel Comics,good,181.0,1.0,0.0,-0.7007553417259449
-Beast Boy,Male,Human,173.0,DC Comics,good,68.0,1.0,0.0,-0.6171192919520619
-Beetle,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,,,
-Ben 10,Male,,,DC Comics,good,,0.0,0.0,-2.5157454052418795
-Beta Ray Bill,Male,,201.0,Marvel Comics,good,216.0,1.0,1.0,-0.4391567239589913
-Beyonder,Male,God / Eternal,155.0,Marvel Comics,good,209.5,3.0,4.0,7.468044048142094
-Big Barda,Female,New God,188.0,DC Comics,bad,135.0,1.0,1.0,-0.015806869585286893
-Big Daddy,Male,Human,179.55633802816902,Icon Comics,good,96.3623188405797,0.0,0.0,-2.361014403604126
-Big Man,Male,Atlas,165.0,Marvel Comics,bad,71.0,0.0,0.0,-2.416983838973134
-Bill Harken,Male,Alpha,,SyFy,good,,1.0,0.0,-1.821975637365039
-Billy Kincaid,Male,Human,179.55633802816902,Image Comics,bad,96.3623188405797,0.0,0.0,-2.1006847120224084
-Binary,Female,,180.0,Marvel Comics,good,54.0,2.0,1.0,-0.8091236663277444
-Bionic Woman,Female,Cyborg,220.5,,good,166.11111111111111,1.0,0.0,-1.1631091048837616
-Bird-Brain,,,,Marvel Comics,good,,0.0,0.0,-2.2765468022383204
-Bird-Man,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,1.0,0.0,-2.0273467269773198
-Bird-Man II,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,0.0,0.0,-2.1676682025782443
-Birdman,Male,God / Eternal,155.0,Hanna-Barbera,good,209.5,2.0,2.0,0.564617765972597
-Bishop,Male,Mutant,198.0,Marvel Comics,good,124.0,2.0,2.0,0.7449265207527979
-Bizarro,Male,Bizarro,191.0,DC Comics,neutral,155.0,1.0,2.0,4.619173255999006
-Black Abbott,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,2.0,0.0,-0.5926174463211198
-Black Adam,Male,Human,191.0,DC Comics,bad,113.0,3.0,1.0,2.176854234505427
-Black Bolt,Male,Inhuman,188.0,Marvel Comics,good,95.0,2.0,1.0,0.703569280665604
-Black Canary,Female,Human,165.0,DC Comics,good,58.0,1.0,0.0,-1.9853562496023422
-Black Canary,Female,Human,165.0,DC Comics,good,58.0,1.0,0.0,-1.9853562496023422
-Black Canary,Female,Metahuman,170.0,DC Comics,good,59.0,1.0,0.0,-1.9853562496023422
-Black Canary,Female,Metahuman,170.0,DC Comics,good,59.0,1.0,0.0,-1.9853562496023422
-Black Cat,Female,Human,178.0,Marvel Comics,good,54.0,1.0,0.0,-0.7553669353791387
-Black Flash,Male,God / Eternal,155.0,DC Comics,neutral,209.5,1.0,0.0,2.345413025254683
-Black Goliath,Male,,,Marvel Comics,good,,,,
-Black Knight III,Male,Human,183.0,Marvel Comics,good,86.0,0.0,0.0,-2.554976869546374
-Black Lightning,Male,Human,185.0,DC Comics,good,90.0,1.0,2.0,-0.48222506993266107
-Black Mamba,Female,Human,170.0,Marvel Comics,bad,52.0,0.0,0.0,-0.9040537542755919
-Black Manta,Male,Human,188.0,DC Comics,bad,92.0,3.0,0.0,-0.09256562300400338
-Black Panther,Male,Human,183.0,Marvel Comics,good,90.0,1.0,0.0,-0.5131140943129315
-Black Widow,Female,Human,170.0,Marvel Comics,good,59.0,1.0,0.0,-1.6396666283089618
+Alien,Male,Xenomorph XX121,244.0,Dark Horse Comics,bad,169.0,1.0,2.0,-0.6
+Allan Quatermain,Male,Human,179.4,Wildstorm,good,95.9,1.0,0.0,-2.4
+Amazo,Male,Android,257.0,DC Comics,bad,173.0,6.0,7.0,12.6
+Ammo,Male,Human,188.0,Marvel Comics,bad,101.0,1.0,0.0,-2.5
+Ando Masahashi,Male,Human,179.4,NBC - Heroes,good,95.9,1.0,0.0,-2.2
+Angel,Male,Mutant,183.0,Marvel Comics,good,68.0,2.0,3.0,2.0
+Angel,Male,Mutant,183.0,Marvel Comics,good,68.0,2.0,3.0,2.0
+Angel,Male,Vampire,188.0,Dark Horse Comics,good,97.0,2.0,3.0,2.0
+Angel,Male,Vampire,188.0,Dark Horse Comics,good,97.0,2.0,3.0,2.0
+Angel Dust,Female,Mutant,165.0,Marvel Comics,good,57.0,1.0,0.0,-1.7
+Angel Salvadore,Female,Mutant,163.0,Marvel Comics,good,54.0,1.0,1.0,-2.2
+Angela,Female,Asgardian,191.1,Image Comics,bad,209.1,0.0,0.0,-2.2
+Animal Man,Male,Human,183.0,DC Comics,good,83.0,2.0,0.0,-1.7
+Annihilus,Male,Arthrosian,180.0,Marvel Comics,bad,90.0,1.0,1.0,-1.2
+Ant-Man,Male,Human,211.0,Marvel Comics,good,122.0,0.0,0.0,-1.9
+Ant-Man II,Male,Human,183.0,Marvel Comics,good,86.0,2.0,0.0,-0.5
+Anti-Monitor,Male,God / Eternal,61.0,DC Comics,bad,209.5,3.0,5.0,8.8
+Anti-Spawn,Male,Human,179.4,Image Comics,bad,95.9,2.0,2.0,-0.7
+Anti-Venom,Male,Symbiote,229.0,Marvel Comics,,358.0,1.0,3.0,-0.2
+Apocalypse,Male,Mutant,213.0,Marvel Comics,bad,135.0,4.0,5.0,5.5
+Aquababy,Male,Atlantean,178.4,DC Comics,good,101.0,1.0,0.0,-1.8
+Aqualad,Male,Atlantean,178.0,DC Comics,good,106.0,3.0,1.0,1.0
+Aquaman,Male,Atlantean,185.0,DC Comics,good,146.0,1.0,3.0,3.1
+Arachne,Female,Human,175.0,Marvel Comics,good,63.0,1.0,1.0,-0.7
+Archangel,Male,Mutant,183.0,Marvel Comics,good,68.0,1.0,1.0,-0.9
+Arclight,Female,Mutant,173.0,Marvel Comics,bad,57.0,1.0,1.0,-2.2
+Ardina,Female,Alien,193.0,Marvel Comics,good,98.0,2.0,3.0,2.3
+Ares,Male,Olympian,185.0,Marvel Comics,good,270.0,1.0,2.0,-0.7
+Ariel,Female,Mutant,165.0,Marvel Comics,good,59.0,0.0,1.0,-1.6
+Armor,Female,Mutant,163.0,Marvel Comics,good,50.0,1.0,0.0,-2.0
+Arsenal,Male,Human,179.4,DC Comics,good,95.9,,,
+Astro Boy,Male,Robot,198.0,,good,360.0,2.0,0.0,-0.3
+Atlas,Male,Mutant,183.0,Marvel Comics,good,101.0,1.0,3.0,0.3
+Atlas,Male,Mutant,183.0,Marvel Comics,good,101.0,1.0,3.0,0.3
+Atlas,Male,God / Eternal,198.0,DC Comics,bad,126.0,1.0,3.0,0.3
+Atlas,Male,God / Eternal,198.0,DC Comics,bad,126.0,1.0,3.0,0.3
+Atom,Male,Human,178.0,DC Comics,good,68.0,1.0,0.0,-0.6
+Atom Girl,Female,Human,168.0,DC Comics,good,54.0,0.0,0.0,-2.1
+Atom II,Male,Human,183.0,DC Comics,good,81.0,1.0,0.0,-1.1
+Atom III,Male,Human,179.4,DC Comics,good,95.9,0.0,0.0,-2.1
+Atom IV,Male,Human,179.4,DC Comics,good,72.0,0.0,0.0,-2.3
+Aurora,Female,Mutant,180.0,Marvel Comics,good,63.0,1.0,1.0,-0.1
+Azazel,Male,Neyaphem,183.0,Marvel Comics,bad,67.0,0.0,2.0,-0.4
+Azrael,Male,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.0
+Aztar,Male,Angel,,DC Comics,good,,2.0,2.0,3.2
+Bane,Male,Human,203.0,DC Comics,bad,180.0,1.0,1.0,-1.4
+Banshee,Male,Human,183.0,Marvel Comics,good,77.0,0.0,1.0,-1.6
+Bantam,Male,Human,165.0,Marvel Comics,good,54.0,1.0,1.0,-2.0
+Batgirl,Female,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.0
+Batgirl II,Female,Human,170.0,DC Comics,good,57.0,,,
+Batgirl III,Female,Human,179.4,DC Comics,good,95.9,,,
+Batgirl IV,Female,Human,165.0,DC Comics,good,52.0,1.0,0.0,-2.3
+Batgirl V,Female,Human,179.4,DC Comics,good,95.9,,,
+Batgirl VI,Female,Human,168.0,DC Comics,good,61.0,1.0,0.0,-2.2
+Batman,Male,Human,188.0,DC Comics,good,95.0,3.0,1.0,-0.7
+Batman III,Male,Human,178.0,DC Comics,good,77.0,,,
+Batman II,Male,Human,178.0,DC Comics,good,79.0,2.0,0.0,-2.1
+Battlestar,Male,Human,198.0,Marvel Comics,good,133.0,1.0,1.0,-1.5
+Batwoman V,Female,Human,178.0,DC Comics,good,95.9,2.0,0.0,-2.0
+Beak,Male,Mutant,175.0,Marvel Comics,good,63.0,0.0,0.0,-1.9
+Beast,Male,Mutant,180.0,Marvel Comics,good,181.0,1.0,1.0,-0.6
+Beast Boy,Male,Human,173.0,DC Comics,good,68.0,2.0,1.0,-0.6
+Beetle,Male,Human,179.4,Marvel Comics,bad,95.9,,,
+Ben 10,Male,,,DC Comics,good,,0.0,0.0,-2.5
+Beta Ray Bill,Male,Korbinite,201.0,Marvel Comics,good,216.0,1.0,2.0,-0.4
+Beyonder,Male,God / Eternal,155.0,Marvel Comics,good,209.5,3.0,5.0,7.4
+Big Barda,Female,New God,188.0,DC Comics,bad,135.0,1.0,3.0,-0.0
+Big Daddy,Male,Human,,Icon Comics,good,,0.0,0.0,-2.4
+Big Man,Male,Human,165.0,Marvel Comics,bad,71.0,1.0,0.0,-2.4
+Bill Harken,Male,Alpha,,SyFy,good,,1.0,0.0,-1.8
+Billy Kincaid,Male,Human,179.4,Image Comics,bad,95.9,0.0,0.0,-2.1
+Binary,Female,Human,180.0,Marvel Comics,good,54.0,2.0,2.0,-0.8
+Bionic Woman,Female,Cyborg,220.5,,good,166.1,1.0,1.0,-1.2
+Bird-Brain,Male,,,Marvel Comics,good,,0.0,0.0,-2.3
+Bird-Man,Male,Human,179.4,Marvel Comics,bad,95.9,2.0,0.0,-2.0
+Bird-Man II,Male,Human,179.4,Marvel Comics,bad,95.9,0.0,0.0,-2.2
+Birdman,Male,God / Eternal,155.0,Hanna-Barbera,good,209.5,2.0,3.0,0.6
+Bishop,Male,Mutant,198.0,Marvel Comics,good,124.0,2.0,2.0,0.7
+Bizarro,Male,Bizarro,191.0,DC Comics,neutral,155.0,3.0,4.0,4.6
+Black Abbott,Male,Human,179.4,Marvel Comics,bad,95.9,2.0,0.0,-0.6
+Black Adam,Male,Kahndaqian,191.0,DC Comics,bad,113.0,4.0,1.0,2.2
+Black Bolt,Male,Inhuman,188.0,Marvel Comics,good,95.0,2.0,2.0,0.7
+Black Canary,Female,Human,165.0,DC Comics,good,58.0,2.0,0.0,-1.9
+Black Canary II,Female,Metahuman,170.0,DC Comics,good,59.0,,,
+Black Cat,Female,Human,178.0,Marvel Comics,good,54.0,1.0,0.0,-0.7
+Black Flash,Male,God / Eternal,155.0,DC Comics,neutral,209.5,1.0,2.0,2.3
+Black Goliath,Male,Human,179.4,Marvel Comics,good,95.9,,,
+Black Knight III,Male,Human,183.0,Marvel Comics,good,86.0,0.0,0.0,-2.6
+Black Lightning,Male,Human,185.0,DC Comics,good,90.0,1.0,2.0,-0.5
+Black Mamba,Female,Human,170.0,Marvel Comics,bad,52.0,0.0,0.0,-0.9
+Black Manta,Male,Human,188.0,DC Comics,bad,92.0,4.0,2.0,-0.0
+Black Panther,Male,Human,183.0,Marvel Comics,good,90.0,2.0,1.0,-0.5
+Black Widow,Female,Human,170.0,Marvel Comics,good,59.0,2.0,0.0,-1.6
 Black Widow II,Female,Human,170.0,Marvel Comics,good,61.0,,,
-Blackout,Male,Demon,191.0,Marvel Comics,bad,104.0,1.0,0.0,-0.5370660398706649
-Blackwing,Male,Avian,185.0,Marvel Comics,bad,86.0,0.0,0.0,-1.805590876733895
-Blackwulf,Male,Alien,188.0,Marvel Comics,,88.0,2.0,0.0,-0.8191481569539372
-Blade,Male,Vampire,188.0,Marvel Comics,good,97.0,2.0,0.0,-0.09918873009900854
-Blaquesmith,,Mutant,183.1851851851852,Marvel Comics,good,91.075,,,
-Bling!,Female,Mutant,168.0,Marvel Comics,good,68.0,0.0,0.0,-2.347450811340751
-Blink,Female,Mutant,165.0,Marvel Comics,good,56.0,0.0,1.0,-1.9628435267423352
-Blizzard,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,0.0,0.0,-2.339413399747679
-Blizzard,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,0.0,0.0,-2.339413399747679
-Blizzard,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,0.0,0.0,-2.339413399747679
-Blizzard,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,0.0,0.0,-2.339413399747679
-Blizzard II,Male,Human,175.0,Marvel Comics,bad,77.0,0.0,0.0,-2.2695261446811843
-Blob,Male,Mutant,178.0,Marvel Comics,bad,230.0,1.0,0.0,-1.3715863220399482
-Bloodaxe,Female,Human,218.0,Marvel Comics,bad,495.0,2.0,2.0,0.9624299444556482
-Bloodhawk,Male,Mutant,183.1851851851852,Marvel Comics,good,91.075,0.0,0.0,-1.1936001718781024
-Bloodwraith,Male,,30.5,Marvel Comics,bad,,4.0,3.0,0.3694843715788249
-Blue Beetle,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.6494033406686202
-Blue Beetle,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.6494033406686202
-Blue Beetle,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.6494033406686202
-Blue Beetle,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.6494033406686202
-Blue Beetle II,Male,Human,183.0,DC Comics,good,86.0,0.0,0.0,-2.2427337572971884
-Blue Beetle III,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,1.0,0.33440473859602476
-Boba Fett,Male,Human / Clone,183.0,George Lucas,bad,,1.0,0.0,-0.7278446559860685
-Bolt,Male,Speedster,,Marvel Comics,good,,,,
-Bomb Queen,Female,Human,179.55633802816902,Image Comics,bad,96.3623188405797,1.0,0.0,-1.8574954978708338
-Boom-Boom,Female,Mutant,165.0,Marvel Comics,good,55.0,1.0,1.0,-0.4781552672447371
-Boomer,Female,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Booster Gold,Male,Human,196.0,DC Comics,good,97.0,3.0,2.0,4.104338779683764
-Box,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Box III,,Human,193.0,Marvel Comics,good,110.0,,,
-Box IV,,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,1.0,0.0,-1.991416347062859
-Brainiac,Male,Android,198.0,DC Comics,bad,135.0,2.0,1.0,1.2211306107350668
-Brainiac 5,Male,Coluan,170.0,DC Comics,good,61.0,0.0,1.0,-1.5139124424837893
-Brother Voodoo,Male,Human,183.0,Marvel Comics,good,99.0,0.0,0.0,-1.9988898446661
-Brundlefly,Male,Mutant,193.0,,,91.075,1.0,0.0,-2.1098339661550574
-Buffy,Female,Human,157.0,Dark Horse Comics,good,52.0,1.0,0.0,-0.02864981973061111
-Bullseye,Male,Human,183.0,Marvel Comics,bad,90.0,1.0,0.0,-2.3085902806951646
-Bumblebee,Female,Human,170.0,DC Comics,good,59.0,2.0,0.0,-0.3736936327571935
-Bumbleboy,Male,,,Marvel Comics,good,,0.0,0.0,-1.805590876733895
-Bushido,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.3565729415025434
-Cable,Male,Mutant,203.0,Marvel Comics,good,158.0,4.0,2.0,7.440574535808038
-Callisto,Female,Mutant,175.0,Marvel Comics,bad,74.0,1.0,0.0,-1.3575380184416985
-Cameron Hicks,Male,Alpha,,SyFy,good,,0.0,0.0,-3.0673230980240533
-Cannonball,Male,Mutant,183.0,Marvel Comics,good,81.0,0.0,1.0,-0.9246616801050817
-Captain America,Male,Human,188.0,Marvel Comics,good,108.0,1.0,0.0,-1.8176973454797059
-Captain Atom,Male,Human / Radiation,193.0,DC Comics,good,90.0,3.0,3.0,8.0211012404686
-Captain Britain,Male,Human,198.0,Marvel Comics,good,116.0,1.0,1.0,-0.5375155987790203
-Captain Cold,Male,Human,179.55633802816902,DC Comics,neutral,96.3623188405797,0.0,0.0,-2.339413399747679
-Captain Epic,Male,,188.0,Team Epic TV,good,,1.0,0.0,-1.9029154687306016
-Captain Hindsight,Male,Human,179.55633802816902,South Park,good,96.3623188405797,0.0,0.0,-1.7251441401288046
-Captain Mar-vell,Male,,188.0,Marvel Comics,good,108.0,,,
-Captain Marvel,Female,Human-Kree,180.0,Marvel Comics,good,74.0,2.0,3.0,9.041816355498133
-Captain Marvel,Female,Human-Kree,180.0,Marvel Comics,good,74.0,2.0,3.0,9.041816355498133
-Captain Marvel,Male,Human,193.0,DC Comics,good,101.0,2.0,3.0,9.041816355498133
-Captain Marvel,Male,Human,193.0,DC Comics,good,101.0,2.0,3.0,9.041816355498133
-Captain Marvel II,Male,Human,175.0,DC Comics,good,74.0,1.0,1.0,-0.07307448445071846
-Captain Midnight,Male,Human,179.55633802816902,Dark Horse Comics,good,96.3623188405797,0.0,0.0,-1.82097444880417
-Captain Planet,Male,God / Eternal,155.0,Marvel Comics,good,209.5,3.0,1.0,5.84995416903461
-Captain Universe,,God / Eternal,155.0,Marvel Comics,good,209.5,1.0,0.0,0.11398291930838664
-Carnage,Male,Symbiote,185.0,Marvel Comics,bad,86.0,1.0,0.0,-0.6604692646509673
-Cat,Female,Human,173.0,Marvel Comics,good,61.0,1.0,0.0,-1.6824986238316495
-Cat II,Female,,,Marvel Comics,good,,,,
-Catwoman,Female,Human,175.0,DC Comics,good,61.0,0.0,0.0,-2.1266014109656486
-Cecilia Reyes,,,170.0,Marvel Comics,good,62.0,,,
-Century,Male,Alien,201.0,Marvel Comics,good,97.0,0.0,1.0,-1.2132222230734167
-Cerebra,Female,Mutant,183.1851851851852,Marvel Comics,good,91.075,0.0,0.0,-2.604290887985666
-Chamber,Male,Mutant,175.0,Marvel Comics,good,63.0,0.0,0.0,-1.179068748789083
-Chameleon,Male,Kryptonian,160.0,DC Comics,bad,70.16666666666667,0.0,0.0,-2.2491889207738796
-Changeling,Male,Changeling,180.0,Marvel Comics,bad,81.0,1.0,0.0,-1.3732719196257077
-Cheetah,Female,Human,163.0,DC Comics,bad,50.0,0.0,0.0,-2.098133245611912
-Cheetah II,Female,Human,170.0,DC Comics,bad,55.0,1.0,0.0,-1.6810258588071312
-Cheetah III,Female,Human,175.0,DC Comics,bad,54.0,1.0,0.0,0.7979667040191573
-Chromos,Male,,185.0,Team Epic TV,bad,86.0,2.0,1.0,1.3666553536030044
-Chuck Norris,Male,,178.0,,good,,0.0,0.0,-2.659334381914399
-Citizen Steel,Male,Human,183.0,DC Comics,good,170.0,1.0,0.0,-1.5061181773276349
-Claire Bennet,Female,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-1.9863085799766984
-Clea,,,,Marvel Comics,good,,,,
-Cloak,Male,Cloak,226.0,Marvel Comics,good,70.0,0.0,2.0,0.3090271055902199
+Blackout,Male,Demon,191.0,Marvel Comics,bad,104.0,1.0,2.0,-0.5
+Blackwing,Male,Human,185.0,Marvel Comics,bad,86.0,0.0,0.0,-1.8
+Blackwulf,Male,Alien,188.0,Marvel Comics,,88.0,2.0,1.0,-0.9
+Blade,Male,Vampire,188.0,Marvel Comics,good,97.0,2.0,1.0,-0.1
+Blaquesmith,,Askani,,Marvel Comics,good,,,,
+Bling!,Female,Mutant,168.0,Marvel Comics,good,68.0,0.0,1.0,-2.4
+Blink,Female,Mutant,165.0,Marvel Comics,good,56.0,0.0,1.0,-2.0
+Blizzard,Male,Human,179.4,Marvel Comics,bad,95.9,1.0,0.0,-2.3
+Blizzard II,Male,Human,175.0,Marvel Comics,bad,77.0,1.0,0.0,-2.3
+Blob,Male,Mutant,178.0,Marvel Comics,bad,230.0,1.0,1.0,-1.4
+Bloodaxe,Female,Human,218.0,Marvel Comics,bad,495.0,4.0,3.0,1.0
+Bloodhawk,Male,Mutant,182.0,Marvel Comics,good,88.6,0.0,2.0,-1.2
+Bloodwraith,Male,Human,30.5,Marvel Comics,bad,95.9,5.0,3.0,0.3
+Blue Beetle,Male,Human,179.4,DC Comics,good,95.9,2.0,0.0,-1.7
+Blue Beetle II,Male,Human,183.0,DC Comics,good,86.0,0.0,0.0,-2.3
+Blue Beetle III,Male,Human,179.4,DC Comics,good,95.9,2.0,1.0,0.3
+Boba Fett,Male,Human / Clone,183.0,George Lucas,bad,,2.0,0.0,-0.7
+Bolt,Male,Inhuman,181.0,Marvel Comics,good,72.5,,,
+Bomb Queen,Female,Human,179.4,Image Comics,bad,95.9,1.0,0.0,-1.9
+Boom-Boom,Female,Mutant,165.0,Marvel Comics,good,55.0,1.0,1.0,-0.5
+Boomer,Female,Human,179.4,Marvel Comics,good,95.9,,,
+Booster Gold,Male,Human,196.0,DC Comics,good,97.0,3.0,4.0,4.1
+Box,Male,Mutant,,Marvel Comics,good,,,,
+Box III,,Mutant,193.0,Marvel Comics,good,110.0,,,
+Box IV,,Mutant,,Marvel Comics,good,,1.0,0.0,-2.0
+Brainiac,Male,Android,198.0,DC Comics,bad,135.0,2.0,2.0,1.2
+Brainiac 5,Male,Coluan,170.0,DC Comics,good,61.0,0.0,1.0,-1.5
+Brother Voodoo,Male,Human,183.0,Marvel Comics,good,99.0,1.0,0.0,-2.0
+Brundlefly,Male,Mutant,193.0,,,88.6,1.0,0.0,-2.1
+Buffy,Female,Human,157.0,Dark Horse Comics,good,52.0,1.0,1.0,-0.0
+Bullseye,Male,Human,183.0,Marvel Comics,bad,90.0,2.0,1.0,-2.3
+Bumblebee,Female,Human,170.0,DC Comics,good,59.0,2.0,0.0,-0.4
+Bumbleboy,Male,,,Marvel Comics,good,,0.0,0.0,-1.8
+Bushido,Male,Human,179.4,DC Comics,good,95.9,1.0,0.0,-2.4
+Cable,Male,Mutant,203.0,Marvel Comics,good,158.0,5.0,3.0,7.4
+Callisto,Female,Mutant,175.0,Marvel Comics,bad,74.0,1.0,1.0,-1.3
+Cameron Hicks,Male,Alpha,,SyFy,good,,1.0,0.0,-3.1
+Cannonball,Male,Mutant,183.0,Marvel Comics,good,81.0,0.0,2.0,-1.0
+Captain America,Male,Human,188.0,Marvel Comics,good,108.0,2.0,1.0,-1.8
+Captain Atom,Male,Human / Radiation,193.0,DC Comics,good,90.0,3.0,6.0,8.0
+Captain Britain,Male,Human,198.0,Marvel Comics,good,116.0,1.0,3.0,-0.5
+Captain Cold,Male,Human,179.4,DC Comics,neutral,95.9,1.0,0.0,-2.3
+Captain Epic,Male,,188.0,Team Epic TV,good,,1.0,0.0,-1.9
+Captain Hindsight,Male,Human,179.4,South Park,good,95.9,0.0,1.0,-1.7
+Captain Mar-vell,Male,Kree,188.0,Marvel Comics,good,108.0,,,
+Captain Marvel,Female,Human-Kree,180.0,Marvel Comics,good,74.0,4.0,5.0,9.0
+Captain Marvel,Female,Human-Kree,180.0,Marvel Comics,good,74.0,4.0,5.0,9.0
+Captain Marvel,Male,Human,193.0,DC Comics,good,101.0,4.0,5.0,9.0
+Captain Marvel,Male,Human,193.0,DC Comics,good,101.0,4.0,5.0,9.0
+Captain Marvel II,Male,Human,175.0,DC Comics,good,74.0,1.0,1.0,-0.1
+Captain Midnight,Male,Human,179.4,Dark Horse Comics,good,95.9,1.0,0.0,-1.8
+Captain Planet,Male,God / Eternal,155.0,Marvel Comics,good,209.5,5.0,3.0,5.8
+Captain Universe,,God / Eternal,155.0,Marvel Comics,good,209.5,2.0,1.0,0.1
+Carnage,Male,Symbiote,185.0,Marvel Comics,bad,86.0,1.0,2.0,-0.6
+Cat,Female,Human,173.0,Marvel Comics,good,61.0,1.0,1.0,-1.7
+Cat II,Female,Human,,Marvel Comics,good,,,,
+Catwoman,Female,Human,175.0,DC Comics,good,61.0,1.0,0.0,-2.1
+Cecilia Reyes,Female,Human,170.0,Marvel Comics,good,62.0,,,
+Century,Male,Alien,201.0,Marvel Comics,good,97.0,0.0,2.0,-1.3
+Cerebra,Female,Mutant,182.0,Marvel Comics,good,88.6,0.0,0.0,-2.6
+Chamber,Male,Mutant,175.0,Marvel Comics,good,63.0,0.0,0.0,-1.2
+Chameleon,Male,,,DC Comics,bad,,0.0,0.0,-2.3
+Changeling,Male,Mutant,180.0,Marvel Comics,bad,81.0,1.0,0.0,-1.4
+Cheetah,Female,Human,163.0,DC Comics,bad,50.0,1.0,0.0,-2.1
+Cheetah II,Female,Human,170.0,DC Comics,bad,55.0,2.0,0.0,-1.7
+Cheetah III,Female,Human,175.0,DC Comics,bad,54.0,2.0,2.0,0.9
+Chromos,Male,,185.0,Team Epic TV,bad,86.0,3.0,1.0,1.3
+Chuck Norris,Male,Human,178.0,,good,78.0,0.0,0.0,-2.7
+Citizen Steel,Male,Human,183.0,DC Comics,good,170.0,1.0,1.0,-1.5
+Claire Bennet,Female,Human,179.4,NBC - Heroes,good,95.9,0.0,1.0,-2.0
+Clea,Female,Faltine,185.0,Marvel Comics,good,62.0,,,
+Cloak,Male,Human,226.0,Marvel Comics,good,70.0,0.0,2.0,0.3
 Clock King,Male,Human,178.0,DC Comics,bad,78.0,,,
-Cogliostro,Male,,,Image Comics,bad,,0.0,1.0,-1.5286725014929978
-Colin Wagner,Male,,,HarperCollins,good,,,,
-Colossal Boy,Male,,,DC Comics,good,,,,
-Colossus,Male,Mutant,226.0,Marvel Comics,good,225.0,1.0,1.0,-0.5438136791780999
-Copycat,Female,Mutant,183.0,Marvel Comics,neutral,67.0,1.0,0.0,-1.7996345181653548
-Corsair,Male,Starjammers,191.0,Marvel Comics,good,79.0,,,
-Cottonmouth,Male,Human,183.0,Marvel Comics,bad,99.0,1.0,0.0,-2.271925871749081
-Crimson Crusader,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,0.0,1.0,-0.6665905692893929
-Crimson Dynamo,Male,Human,180.0,Marvel Comics,good,104.0,2.0,0.0,-1.5151909455901806
-Crystal,Female,Inhuman,168.0,Marvel Comics,good,50.0,1.0,0.0,-0.33286776429984966
-Curse,Male,Mutant,183.1851851851852,Image Comics,bad,91.075,1.0,0.0,-1.4312664604177805
-Cy-Gor,Male,,,Image Comics,bad,,1.0,0.0,-1.5418612370215423
-Cyborg,Male,Cyborg,198.0,DC Comics,good,173.0,1.0,0.0,-0.3035712822546538
-Cyborg Superman,Male,Cyborg,220.5,DC Comics,bad,166.11111111111111,1.0,2.0,4.6279906153777
-Cyclops,Male,Mutant,191.0,Marvel Comics,good,88.0,1.0,1.0,-0.370095039574379
-Cypher,,,175.0,Marvel Comics,good,68.0,,,
-Dagger,Female,Mutant,165.0,Marvel Comics,good,52.0,1.0,0.0,-1.6160206933675718
-Danny Cooper,Male,,,HarperCollins,good,,,,
-Daphne Powell,Female,Human,179.55633802816902,ABC Studios,good,96.3623188405797,0.0,0.0,-2.1028458807487245
-Daredevil,Male,Human,183.0,Marvel Comics,good,90.0,1.0,0.0,-0.34788572824629527
-Darkhawk,Male,Human,185.0,Marvel Comics,good,81.0,1.0,1.0,-0.7366131655680814
-Darkman,Male,Darkman,,Universal Studios,good,,1.0,0.0,-1.8953576194879493
-Darkseid,Male,New God,267.0,DC Comics,bad,817.0,3.0,3.0,8.23103117583476
+Cogliostro,Male,Hellspawn,,Image Comics,bad,,0.0,2.0,-1.6
+Colin Wagner,Male,Human / Altered,,HarperCollins,good,,,,
+Colossal Boy,Male,Daxamite,,DC Comics,good,,,,
+Colossus,Male,Mutant,226.0,Marvel Comics,good,225.0,1.0,2.0,-0.6
+Copycat,Female,Mutant,183.0,Marvel Comics,neutral,67.0,1.0,1.0,-1.8
+Corsair,Male,Human,191.0,Marvel Comics,good,79.0,,,
+Cottonmouth,Male,Human,183.0,Marvel Comics,bad,99.0,1.0,0.0,-2.3
+Crimson Crusader,Male,Mutant,182.0,Marvel Comics,good,88.6,0.0,1.0,-0.7
+Crimson Dynamo,Male,Human,180.0,Marvel Comics,good,104.0,2.0,1.0,-1.5
+Crystal,Female,Inhuman,168.0,Marvel Comics,good,50.0,2.0,0.0,-0.3
+Curse,Male,,,Image Comics,bad,,2.0,0.0,-1.4
+Cy-Gor,Male,Gorilla,198.0,Image Comics,bad,270.0,1.0,1.0,-1.5
+Cyborg,Male,Cyborg,198.0,DC Comics,good,173.0,1.0,2.0,-0.3
+Cyborg Superman,Male,Cyborg,220.5,DC Comics,bad,166.1,1.0,4.0,4.6
+Cyclops,Male,Mutant,191.0,Marvel Comics,good,88.0,2.0,1.0,-0.4
+Cypher,Male,Mutant,175.0,Marvel Comics,good,68.0,,,
+Dagger,Female,Human,165.0,Marvel Comics,good,52.0,1.0,0.0,-1.6
+Danny Cooper,Male,Human / Altered,,HarperCollins,good,,,,
+Daphne Powell,Female,Human / Altered,,ABC Studios,good,,0.0,0.0,-2.1
+Daredevil,Male,Human,183.0,Marvel Comics,good,90.0,2.0,1.0,-0.3
+Darkhawk,Male,Human,185.0,Marvel Comics,good,81.0,1.0,2.0,-0.7
+Darkman,Male,,,Universal Studios,good,,1.0,1.0,-1.9
+Darkseid,Male,New God,267.0,DC Comics,bad,817.0,4.0,4.0,8.2
 Darkside,,,,,bad,,,,
-Darkstar,Female,Mutant,168.0,Marvel Comics,good,56.0,1.0,1.0,-0.25086644377744916
-Darth Maul,Male,Dathomirian Zabrak,170.0,George Lucas,bad,,3.0,0.0,0.9179707396921266
-Darth Vader,Male,Cyborg,198.0,George Lucas,bad,135.0,3.0,1.0,5.64597138978496
-Dash,Male,Human,122.0,Dark Horse Comics,good,27.0,0.0,0.0,-1.8710657330498686
-Data,Male,Android,202.22222222222223,Star Trek,good,161.375,1.0,0.0,1.4998969400378785
-Dazzler,Female,Mutant,173.0,Marvel Comics,good,52.0,1.0,2.0,2.908653417860422
-Deadman,Male,Human,183.0,DC Comics,good,90.0,0.0,1.0,2.5825158240331016
-Deadpool,Male,Mutant,188.0,Marvel Comics,neutral,95.0,1.0,1.0,1.2431776437998958
-Deadshot,Male,Human,185.0,DC Comics,bad,91.0,1.0,0.0,-2.2623289359264085
-Deathlok,Male,Cyborg,193.0,Marvel Comics,good,178.0,1.0,0.0,0.1868079214644662
-Deathstroke,Male,Human,193.0,DC Comics,neutral,101.0,2.0,0.0,-0.7242432294500573
-Demogoblin,Male,Demon,185.0,Marvel Comics,bad,95.0,1.0,0.0,-0.8190104775291478
-Destroyer,Male,,188.0,Marvel Comics,bad,383.0,2.0,0.0,-0.4511087361092425
-Diamondback,Male,Human,193.0,Marvel Comics,bad,90.0,1.0,0.0,-2.4428026757736054
-DL Hawkins,Male,,,NBC - Heroes,good,,0.0,0.0,-1.7766928941596762
-Doc Samson,Male,Human / Radiation,198.0,Marvel Comics,good,171.0,1.0,0.0,-2.013638265794886
-Doctor Doom,Male,Human,201.0,Marvel Comics,bad,187.0,2.0,2.0,2.4193213246627594
-Doctor Doom II,Male,,201.0,Marvel Comics,bad,132.0,2.0,1.0,-0.9463699669078942
-Doctor Fate,Male,Human,188.0,DC Comics,good,89.0,3.0,1.0,9.222467599337957
-Doctor Octopus,Male,Human,175.0,Marvel Comics,bad,110.0,1.0,0.0,-1.3213628017369654
-Doctor Strange,Male,Human,188.0,Marvel Comics,good,81.0,2.0,2.0,9.164397257022287
-Domino,Female,Human,173.0,Marvel Comics,good,54.0,0.0,0.0,-1.585830932600379
-Donatello,Male,Mutant,183.1851851851852,IDW Publishing,good,91.075,1.0,0.0,-1.513022672898378
-Donna Troy,Female,Amazon,175.0,DC Comics,good,63.0,1.0,0.0,-1.7143286946888248
-Doomsday,Male,Alien,244.0,DC Comics,bad,412.0,1.0,2.0,2.910621103899905
-Doppelganger,Male,,196.0,Marvel Comics,bad,104.0,1.0,0.0,-1.1905630641429814
-Dormammu,Male,,185.0,Marvel Comics,bad,,1.0,1.0,2.563365765761238
-Dr Manhattan,Male,Human / Cosmic,163.0,DC Comics,good,59.0,3.0,4.0,12.461907953867208
-Drax the Destroyer,Male,Human / Altered,193.0,Marvel Comics,good,306.0,2.0,0.0,-0.3717467113237562
-Ego,,Celestial,188.0,Marvel Comics,bad,108.0,1.0,1.0,-1.5658585924866435
-Elastigirl,Female,Human,168.0,Dark Horse Comics,good,56.0,1.0,1.0,-0.4732783054615869
-Electro,Male,Human,180.0,Marvel Comics,bad,74.0,0.0,0.0,-2.2997878005093373
-Elektra,Female,Human,175.0,Marvel Comics,good,59.0,1.0,0.0,-0.8514172784962216
-Elle Bishop,Female,Inviso,,NBC - Heroes,bad,,0.0,0.0,-2.3164959539497385
-Elongated Man,Male,Human,185.0,DC Comics,good,80.0,0.0,0.0,-1.150446625136276
-Emma Frost,Female,,178.0,Marvel Comics,good,65.0,1.0,0.0,1.9462574495338032
-Enchantress,Female,Human,168.0,DC Comics,good,57.0,1.0,1.0,3.1658753003013405
-Energy,Female,,,HarperCollins,good,,0.0,0.0,-1.5091451019653017
-ERG-1,Male,,,DC Comics,good,,,,
-Ethan Hunt,Male,Human,168.0,,good,96.3623188405797,1.0,0.0,-1.6561541861564473
-Etrigan,Male,Demon,193.0,DC Comics,neutral,203.0,2.0,0.0,0.5001036676132917
-Evil Deadpool,Male,Mutant,188.0,Marvel Comics,bad,95.0,1.0,1.0,1.2431776437998958
-Evilhawk,Male,Alien,191.0,Marvel Comics,bad,106.0,2.0,1.0,-0.22112283329386856
-Exodus,Male,Mutant,183.0,Marvel Comics,bad,88.0,2.0,1.0,2.5443859958138098
-Fabian Cortez,,Mutant,196.0,Marvel Comics,bad,96.0,0.0,0.0,-2.1671779946333958
-Falcon,Male,Human,188.0,Marvel Comics,good,108.0,0.0,0.0,-1.823853449901432
-Fallen One II,Male,Eternal,191.66666666666663,Marvel Comics,bad,246.0,2.0,2.0,5.1241050647857485
-Faora,Female,Kryptonian,160.0,DC Comics,bad,70.16666666666667,1.0,2.0,3.8908752135984295
-Feral,,Mutant,175.0,Marvel Comics,good,50.0,1.0,0.0,-1.2213099436306094
-Fighting Spirit,Female,,,DC Comics,good,,1.0,1.0,-1.5106662907903619
-Fin Fang Foom,Male,Kakarantharaian,975.0,Marvel Comics,good,18.0,1.0,0.0,-0.09270605694042063
-Firebird,Female,Human,165.0,Marvel Comics,good,56.0,1.0,0.0,0.02867457408626409
-Firelord,,Human,193.0,Marvel Comics,good,99.0,1.0,0.0,-0.5312886848778288
-Firestar,Female,Mutant,173.0,Marvel Comics,good,56.0,1.0,0.0,-0.21568408501494954
-Firestorm,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,1.0,6.156638190790861
-Firestorm,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,1.0,6.156638190790861
-Firestorm,Male,Human,188.0,DC Comics,good,91.0,2.0,1.0,6.156638190790861
-Firestorm,Male,Human,188.0,DC Comics,good,91.0,2.0,1.0,6.156638190790861
-Fixer,,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,,,
-Flash,Male,Human,180.0,DC Comics,good,81.0,0.0,1.0,1.1927526014557583
-Flash Gordon,Male,Human,179.55633802816902,,good,96.3623188405797,0.0,0.0,-2.416983838973134
-Flash II,Male,Human,183.0,DC Comics,good,88.0,1.0,1.0,2.737425537927632
-Flash III,Male,Human,183.0,DC Comics,good,86.0,1.0,0.0,2.5546779655738434
-Flash IV,Male,Human,157.0,DC Comics,good,52.0,0.0,0.0,0.3966500461244281
-Forge,,Mutant,183.0,Marvel Comics,good,81.0,0.0,0.0,-1.7565339874834096
-Franklin Richards,Male,Mutant,142.0,Marvel Comics,good,45.0,3.0,3.0,14.41743698162342
+Darkstar,Female,Mutant,168.0,Marvel Comics,good,56.0,1.0,1.0,-0.3
+Darth Maul,Male,Dathomirian Zabrak,170.0,George Lucas,bad,,4.0,1.0,1.0
+Darth Vader,Male,Cyborg,198.0,George Lucas,bad,135.0,4.0,3.0,5.7
+Dash,Male,Human,122.0,Dark Horse Comics,good,27.0,0.0,0.0,-1.9
+Data,Male,Android,203.6,Star Trek,good,165.1,1.0,2.0,1.5
+Dazzler,Female,Mutant,173.0,Marvel Comics,good,52.0,2.0,2.0,2.9
+Deadman,Male,Human,183.0,DC Comics,good,90.0,1.0,3.0,2.5
+Deadpool,Male,Mutant,188.0,Marvel Comics,neutral,95.0,2.0,3.0,1.3
+Deadshot,Male,Human,185.0,DC Comics,bad,91.0,2.0,0.0,-2.2
+Deathlok,Male,Cyborg,193.0,Marvel Comics,good,178.0,1.0,1.0,0.2
+Deathstroke,Male,Human,193.0,DC Comics,neutral,101.0,2.0,2.0,-0.7
+Demogoblin,Male,Demon,185.0,Marvel Comics,bad,95.0,2.0,0.0,-0.8
+Destroyer,Male,Enchanted,188.0,Marvel Comics,bad,383.0,2.0,0.0,-0.5
+Diamondback,Male,Human,193.0,Marvel Comics,bad,90.0,2.0,0.0,-2.4
+DL Hawkins,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,1.0,-1.8
+Doc Samson,Male,Human / Radiation,198.0,Marvel Comics,good,171.0,1.0,1.0,-2.0
+Doctor Doom,Male,Human,201.0,Marvel Comics,bad,187.0,3.0,3.0,2.4
+Doctor Doom II,Male,Human,201.0,Marvel Comics,bad,132.0,2.0,1.0,-1.0
+Doctor Fate,Male,Human,188.0,DC Comics,good,89.0,3.0,2.0,9.1
+Doctor Octopus,Male,Human,175.0,Marvel Comics,bad,110.0,2.0,0.0,-1.3
+Doctor Strange,Male,Human,188.0,Marvel Comics,good,81.0,3.0,3.0,9.1
+Domino,Female,Human,173.0,Marvel Comics,good,54.0,1.0,0.0,-1.6
+Donatello,Male,Mutant,182.0,IDW Publishing,good,88.6,2.0,0.0,-1.5
+Donna Troy,Female,Amazon,175.0,DC Comics,good,63.0,1.0,0.0,-1.7
+Doomsday,Male,Alien,244.0,DC Comics,bad,412.0,1.0,4.0,2.9
+Doppelganger,Male,Demon,196.0,Marvel Comics,bad,104.0,1.0,0.0,-1.2
+Dormammu,Male,Faltine,185.0,Marvel Comics,bad,,3.0,2.0,2.5
+Dr Manhattan,Male,Human / Cosmic,163.0,DC Comics,good,59.0,3.0,7.0,12.4
+Drax the Destroyer,Male,Human / Altered,193.0,Marvel Comics,good,306.0,2.0,2.0,-0.4
+Ego,,Celestial,,Marvel Comics,bad,,1.0,1.0,-1.6
+Elastigirl,Female,Human,168.0,Dark Horse Comics,good,56.0,1.0,2.0,-0.5
+Electro,Male,Human,180.0,Marvel Comics,bad,74.0,0.0,0.0,-2.3
+Elektra,Female,Human,175.0,Marvel Comics,good,59.0,2.0,0.0,-0.8
+Elle Bishop,Female,Human,179.4,NBC - Heroes,bad,95.9,0.0,0.0,-2.3
+Elongated Man,Male,Human,185.0,DC Comics,good,80.0,0.0,1.0,-1.2
+Emma Frost,Female,Mutant,178.0,Marvel Comics,good,65.0,1.0,2.0,1.9
+Enchantress,Female,Human,168.0,DC Comics,good,57.0,3.0,4.0,3.1
+Energy,Female,Human / Altered,,HarperCollins,good,,0.0,0.0,-1.5
+ERG-1,Male,Pluvian,,DC Comics,good,,,,
+Ethan Hunt,Male,Human,168.0,,good,95.9,2.0,1.0,-1.6
+Etrigan,Male,Demon,193.0,DC Comics,neutral,203.0,3.0,3.0,0.5
+Evil Deadpool,Male,Mutant,188.0,Marvel Comics,bad,95.0,2.0,3.0,1.3
+Evilhawk,Male,Alien,191.0,Marvel Comics,bad,106.0,2.0,2.0,-0.2
+Exodus,Male,Mutant,183.0,Marvel Comics,bad,88.0,2.0,2.0,2.5
+Fabian Cortez,,Mutant,196.0,Marvel Comics,bad,96.0,1.0,0.0,-2.2
+Falcon,Male,Human,188.0,Marvel Comics,good,108.0,1.0,0.0,-1.8
+Fallen One II,Male,,,Marvel Comics,bad,,2.0,5.0,5.1
+Faora,Female,Kryptonian,158.3,DC Comics,bad,66.5,1.0,4.0,3.9
+Feral,Female,Mutant,175.0,Marvel Comics,good,50.0,2.0,1.0,-1.2
+Fighting Spirit,Female,Metahuman,200.7,DC Comics,good,168.7,1.0,1.0,-1.5
+Fin Fang Foom,Male,Kakarantharaian,975.0,Marvel Comics,good,18.0,1.0,1.0,-0.1
+Firebird,Female,Human,165.0,Marvel Comics,good,56.0,2.0,1.0,-0.0
+Firelord,,Xandarian,193.0,Marvel Comics,good,99.0,2.0,1.0,-0.6
+Firestar,Female,Mutant,173.0,Marvel Comics,good,56.0,1.0,1.0,-0.3
+Firestorm,Male,Metahuman,188.0,DC Comics,good,91.0,3.0,4.0,5.9
+Fixer,,Human,179.4,Marvel Comics,bad,95.9,,,
+Flash,Male,Human,180.0,DC Comics,good,81.0,0.0,3.0,1.2
+Flash Gordon,Male,,,,good,,1.0,0.0,-2.4
+Flash II,Male,Human,183.0,DC Comics,good,88.0,1.0,3.0,2.7
+Flash III,Male,Human,183.0,DC Comics,good,86.0,1.0,2.0,2.5
+Flash IV,Male,Human,157.0,DC Comics,good,52.0,0.0,0.0,0.4
+Forge,,Mutant,183.0,Marvel Comics,good,81.0,1.0,0.0,-1.8
+Franklin Richards,Male,Mutant,142.0,Marvel Comics,good,45.0,3.0,5.0,14.4
 Franklin Storm,,Human,188.0,Marvel Comics,good,92.0,,,
-Frenzy,Female,,211.0,Marvel Comics,bad,104.0,1.0,1.0,-1.3291453487395586
-Frigga,Female,,180.0,Marvel Comics,good,167.0,1.0,0.0,-1.7857261019353015
-Galactus,Male,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,3.0,4.0,10.23554639494238
-Gambit,Male,Mutant,185.0,Marvel Comics,good,81.0,1.0,0.0,-0.8196815531754559
-Gamora,Female,Zen-Whoberian,183.0,Marvel Comics,good,77.0,2.0,0.0,-0.44353115498220763
-Garbage Man,Male,Mutant,183.1851851851852,DC Comics,good,91.075,0.0,0.0,-2.182763024936464
-Gary Bell,Male,Alpha,,SyFy,good,,0.0,0.0,-2.040385460006369
-General Zod,Male,Kryptonian,160.0,DC Comics,bad,70.16666666666667,1.0,2.0,3.8908752135984295
-Genesis,Male,,185.0,Marvel Comics,good,86.0,0.0,0.0,-2.295965836517751
-Ghost Rider,Male,Demon,188.0,Marvel Comics,good,99.0,2.0,1.0,2.5440081239750065
-Ghost Rider II,,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,1.0,0.0,-1.248980203197554
-Giant-Man,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Giant-Man II,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Giganta,Female,Human,62.5,DC Comics,bad,630.0,1.0,0.0,-1.532325071890703
-Gladiator,Male,Strontian,198.0,Marvel Comics,neutral,268.0,1.0,1.0,2.173183621087046
-Goblin Queen,Female,,168.0,Marvel Comics,bad,50.0,1.0,0.0,-1.3530463562065598
-Godzilla,,Kaiju,108.0,,bad,,2.0,2.0,2.0003844104014883
-Gog,Male,,,DC Comics,bad,,1.0,0.0,-2.147142352726281
-Goku,Male,Saiyan,175.0,Shueisha,good,62.0,3.0,3.0,5.355413936362724
-Goliath,Male,Asgardian,193.0,Marvel Comics,good,216.16666666666663,,,
-Goliath,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Goliath,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Goliath IV,Male,Goliath,183.0,Marvel Comics,good,90.0,1.0,0.0,-1.908893324151833
-Gorilla Grodd,Male,Gorilla,198.0,DC Comics,bad,270.0,3.0,0.0,1.0415024679761447
-Granny Goodness,Female,,178.0,DC Comics,bad,115.0,1.0,0.0,-2.1377134766706396
-Gravity,Male,Human,178.0,Marvel Comics,good,79.0,1.0,1.0,-0.0747742601731887
-Greedo,Male,Rodian,170.0,George Lucas,bad,,1.0,0.0,-2.510908451280351
-Green Arrow,Male,Human,188.0,DC Comics,good,88.0,1.0,0.0,-2.2822381935831206
-Green Goblin,Male,Human,180.0,Marvel Comics,bad,83.0,1.0,0.0,-1.0594927525653821
-Green Goblin II,Male,Human,178.0,Marvel Comics,bad,77.0,1.0,0.0,-1.2819340378499349
-Green Goblin III,Male,,183.0,Marvel Comics,good,88.0,1.0,0.0,-2.1377134766706396
-Green Goblin IV,Male,,178.0,Marvel Comics,good,79.0,1.0,0.0,-2.1377134766706396
-Groot,Male,Flora Colossus,701.0,Marvel Comics,good,4.0,1.0,1.0,1.792427065922285
-Guardian,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Guy Gardner,Male,Human-Vuldarian,188.0,DC Comics,good,95.0,2.0,1.0,0.4883643276798922
-Hal Jordan,Male,Human,188.0,DC Comics,good,90.0,3.0,1.0,0.47747446556683304
-Han Solo,Male,Human,183.0,George Lucas,good,79.0,1.0,0.0,-2.1079934261486004
-Hancock,Male,Human,188.0,Sony Pictures,good,96.3623188405797,1.0,1.0,0.22191717264310865
-Harley Quinn,Female,Human,170.0,DC Comics,bad,63.0,1.0,0.0,-1.233694118256109
-Harry Potter,Male,Human,179.55633802816902,J. K. Rowling,good,96.3623188405797,2.0,2.0,5.4296525344995485
-Havok,Male,Mutant,183.0,Marvel Comics,good,79.0,1.0,1.0,-0.9841876043137224
-Hawk,Male,Hawk,185.0,DC Comics,good,89.0,1.0,1.0,-0.8534743080807765
-Hawkeye,Male,Human,191.0,Marvel Comics,good,104.0,1.0,0.0,-2.2822381935831206
-Hawkeye II,Female,Human,165.0,Marvel Comics,good,57.0,1.0,0.0,-2.302466216683177
-Hawkgirl,Female,Thangarian,175.0,DC Comics,good,61.0,1.0,0.0,-0.5184590994115662
-Hawkman,Male,,185.0,DC Comics,good,88.0,0.0,0.0,-2.5082134829679403
-Hawkwoman,Female,Thangarian,175.0,DC Comics,good,54.0,,,
-Hawkwoman II,Female,,,DC Comics,good,,,,
-Hawkwoman III,Female,,170.0,DC Comics,good,65.0,,,
-Heat Wave,Male,Human,180.0,DC Comics,bad,81.0,0.0,0.0,-2.554976869546374
-Hela,Female,Asgardian,213.0,Marvel Comics,bad,225.0,1.0,2.0,4.127942216835143
-Hellboy,Male,Demon,259.0,Dark Horse Comics,good,158.0,2.0,1.0,1.3780631449568248
-Hellcat,Female,Human,173.0,Marvel Comics,good,61.0,1.0,0.0,-1.3716273621355888
-Hellstorm,Male,Human,185.0,Marvel Comics,good,81.0,1.0,1.0,0.6970602175631788
-Hercules,Male,Demi-God,196.0,Marvel Comics,good,146.0,1.0,1.0,-0.1696076698587204
-Hiro Nakamura,Male,,,NBC - Heroes,good,,0.0,1.0,-1.1879457954128914
-Hit-Girl,Female,Human,179.55633802816902,Icon Comics,good,96.3623188405797,0.0,0.0,-1.902540775007656
-Hobgoblin,Male,,180.0,Marvel Comics,bad,83.0,1.0,0.0,-1.8122375000968778
-Hollow,Female,,170.0,Marvel Comics,good,,0.0,0.0,-2.1459869815926647
-Hope Summers,Female,Mutant,168.0,Marvel Comics,good,48.0,2.0,1.0,0.07699851696652485
-Howard the Duck,Male,Anthropomorphic,79.0,Marvel Comics,good,18.0,,,
-Hulk,Male,Human / Radiation,244.0,Marvel Comics,good,630.0,1.0,1.0,1.6698628460180254
-Human Torch,Male,Human / Radiation,178.0,Marvel Comics,good,77.0,1.0,1.0,0.757033844157579
-Huntress,Female,Human,180.0,DC Comics,good,59.0,0.0,0.0,-2.5912286064076535
-Husk,Female,Mutant,170.0,Marvel Comics,good,58.0,1.0,0.0,-0.4867646256060989
-Hybrid,Male,Symbiote,175.0,Marvel Comics,good,77.0,1.0,0.0,0.6026084679115402
-Hydro-Man,Male,,188.0,Marvel Comics,bad,119.0,0.0,1.0,-0.7416751743409766
-Hyperion,Male,Eternal,183.0,Marvel Comics,good,207.0,1.0,1.0,3.2998354984737817
-Iceman,Male,Mutant,173.0,Marvel Comics,good,65.0,2.0,1.0,1.994243665355826
-Impulse,Male,Human,170.0,DC Comics,good,65.0,0.0,0.0,1.3936213893160165
-Indiana Jones,Male,Human,183.0,George Lucas,good,79.0,0.0,0.0,-2.0433875586904118
-Indigo,Female,Alien,201.66666666666663,DC Comics,neutral,150.33333333333334,0.0,2.0,-0.24612068806257256
-Ink,Male,Mutant,180.0,Marvel Comics,good,81.0,1.0,0.0,-0.9873114919400664
-Invisible Woman,Female,Human / Radiation,168.0,Marvel Comics,good,54.0,0.0,1.0,0.4120512777293638
-Iron Fist,Male,Human,180.0,Marvel Comics,good,79.0,3.0,1.0,2.1760476205134385
-Iron Man,Male,Human,198.0,Marvel Comics,good,191.0,2.0,2.0,3.0195126037794138
-Iron Monger,Male,Human,179.55633802816902,Marvel Comics,bad,2.0,1.0,0.0,-1.2994534668442412
-Isis,Female,,,DC Comics,good,,2.0,0.0,0.3958885248423752
+Frenzy,Female,Mutant,211.0,Marvel Comics,bad,104.0,1.0,1.0,-1.4
+Frigga,Female,Asgardian,180.0,Marvel Comics,good,167.0,2.0,0.0,-1.8
+Galactus,Male,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,4.0,7.0,10.2
+Gambit,Male,Mutant,185.0,Marvel Comics,good,81.0,1.0,0.0,-0.9
+Gamora,Female,Zen-Whoberian,183.0,Marvel Comics,good,77.0,3.0,2.0,-0.4
+Garbage Man,Male,Mutant,182.0,DC Comics,good,88.6,0.0,0.0,-2.2
+Gary Bell,Male,Alpha,,SyFy,good,,0.0,1.0,-2.0
+General Zod,Male,Kryptonian,158.3,DC Comics,bad,66.5,1.0,4.0,3.9
+Genesis,Male,,185.0,Marvel Comics,good,86.0,0.0,0.0,-2.3
+Ghost Rider,Male,Demon,188.0,Marvel Comics,good,99.0,5.0,2.0,2.5
+Ghost Rider II,,Human,179.4,Marvel Comics,good,95.9,2.0,1.0,-1.3
+Giant-Man,Male,Human,179.4,Marvel Comics,good,95.9,,,
+Giant-Man II,Male,Human,179.4,Marvel Comics,good,95.9,,,
+Giganta,Female,Human,62.5,DC Comics,bad,630.0,1.0,1.0,-1.5
+Gladiator,Male,Strontian,198.0,Marvel Comics,neutral,268.0,1.0,1.0,2.2
+Goblin Queen,Female,Mutant,168.0,Marvel Comics,bad,50.0,1.0,0.0,-1.4
+Godzilla,,Kaiju,108.0,,bad,,2.0,4.0,2.0
+Gog,Male,Unknown,,DC Comics,bad,,1.0,0.0,-2.2
+Goku,Male,Saiyan,175.0,Shueisha,good,62.0,4.0,4.0,5.4
+Goliath,Male,Human,179.4,Marvel Comics,good,95.9,,,
+Goliath IV,Male,Human,183.0,Marvel Comics,good,90.0,1.0,0.0,-1.9
+Gorilla Grodd,Male,Gorilla,198.0,DC Comics,bad,270.0,3.0,1.0,1.1
+Granny Goodness,Female,,178.0,DC Comics,bad,115.0,1.0,1.0,-2.2
+Gravity,Male,Human,178.0,Marvel Comics,good,79.0,1.0,1.0,-0.1
+Greedo,Male,Rodian,170.0,George Lucas,bad,,1.0,0.0,-2.5
+Green Arrow,Male,Human,188.0,DC Comics,good,88.0,2.0,0.0,-2.3
+Green Goblin,Male,Human,180.0,Marvel Comics,bad,83.0,2.0,1.0,-1.0
+Green Goblin II,Male,Human,178.0,Marvel Comics,bad,77.0,1.0,1.0,-1.3
+Green Goblin III,Male,Human,183.0,Marvel Comics,good,88.0,1.0,1.0,-2.2
+Green Goblin IV,Male,Human,178.0,Marvel Comics,good,79.0,1.0,1.0,-2.2
+Groot,Male,Flora Colossus,701.0,Marvel Comics,good,4.0,1.0,3.0,1.8
+Guardian,Male,Human,179.4,Marvel Comics,good,95.9,,,
+Guy Gardner,Male,Human-Vuldarian,188.0,DC Comics,good,95.0,3.0,2.0,0.5
+Hal Jordan,Male,Human,188.0,DC Comics,good,90.0,4.0,1.0,0.5
+Han Solo,Male,Human,183.0,George Lucas,good,79.0,2.0,0.0,-2.1
+Hancock,Male,Human,188.0,Sony Pictures,good,95.9,1.0,3.0,0.2
+Harley Quinn,Female,Human,170.0,DC Comics,bad,63.0,2.0,0.0,-1.2
+Harry Potter,Male,Human,179.4,J. K. Rowling,good,95.9,3.0,2.0,5.5
+Havok,Male,Mutant,183.0,Marvel Comics,good,79.0,1.0,1.0,-1.0
+Hawk,Male,Thanagarian,185.0,DC Comics,good,89.0,1.0,1.0,-0.9
+Hawkeye,Male,Human,191.0,Marvel Comics,good,104.0,2.0,0.0,-2.3
+Hawkeye II,Female,Human,165.0,Marvel Comics,good,57.0,1.0,0.0,-2.3
+Hawkgirl,Female,Thanagarian,175.0,DC Comics,good,61.0,1.0,2.0,-0.5
+Hawkman,Male,Thanagarian,185.0,DC Comics,good,88.0,1.0,0.0,-2.5
+Hawkwoman,Female,Thanagarian,175.0,DC Comics,good,54.0,,,
+Hawkwoman II,Female,Thanagarian,178.0,DC Comics,good,71.4,,,
+Hawkwoman III,Female,Thanagarian,170.0,DC Comics,good,65.0,,,
+Heat Wave,Male,Human,180.0,DC Comics,bad,81.0,0.0,0.0,-2.6
+Hela,Female,Asgardian,213.0,Marvel Comics,bad,225.0,2.0,3.0,4.1
+Hellboy,Male,Demon,259.0,Dark Horse Comics,good,158.0,3.0,3.0,1.4
+Hellcat,Female,Human,173.0,Marvel Comics,good,61.0,1.0,0.0,-1.4
+Hellstorm,Male,Demon,185.0,Marvel Comics,good,81.0,3.0,1.0,0.7
+Hercules,Male,Demi-God,196.0,Marvel Comics,good,146.0,1.0,3.0,-0.2
+Hiro Nakamura,Male,Japanese,,NBC - Heroes,good,,0.0,1.0,-1.2
+Hit-Girl,Female,Human,179.4,Icon Comics,good,95.9,0.0,0.0,-1.9
+Hobgoblin,Male,Human,180.0,Marvel Comics,bad,83.0,1.0,0.0,-1.8
+Hollow,Female,Mutant,170.0,Marvel Comics,good,88.6,0.0,1.0,-2.2
+Hope Summers,Female,Mutant,168.0,Marvel Comics,good,48.0,2.0,1.0,0.0
+Howard the Duck,Male,Duckworldian,79.0,Marvel Comics,good,18.0,,,
+Hulk,Male,Human / Radiation,244.0,Marvel Comics,good,630.0,1.0,2.0,1.7
+Human Torch,Male,Human / Radiation,178.0,Marvel Comics,good,77.0,3.0,1.0,0.7
+Huntress,Female,Human,180.0,DC Comics,good,59.0,1.0,0.0,-2.6
+Husk,Female,Mutant,170.0,Marvel Comics,good,58.0,1.0,1.0,-0.5
+Hybrid,Male,Symbiote,175.0,Marvel Comics,good,77.0,2.0,2.0,0.7
+Hydro-Man,Male,Human,188.0,Marvel Comics,bad,119.0,0.0,1.0,-0.8
+Hyperion,Male,Eternal,183.0,Marvel Comics,good,207.0,1.0,3.0,3.3
+Iceman,Male,Mutant,173.0,Marvel Comics,good,65.0,4.0,2.0,2.1
+Impulse,Male,Human,170.0,DC Comics,good,65.0,0.0,2.0,1.4
+Indiana Jones,Male,Human,183.0,George Lucas,good,79.0,0.0,0.0,-2.0
+Indigo,Female,Alien,201.7,DC Comics,neutral,150.3,0.0,2.0,-0.3
+Ink,Male,Mutant,180.0,Marvel Comics,good,81.0,1.0,0.0,-1.0
+Invisible Woman,Female,Human / Radiation,168.0,Marvel Comics,good,54.0,0.0,1.0,0.4
+Iron Fist,Male,Human,180.0,Marvel Comics,good,79.0,3.0,3.0,2.2
+Iron Man,Male,Human,198.0,Marvel Comics,good,191.0,3.0,3.0,3.1
+Iron Monger,Male,Human,179.4,Marvel Comics,bad,2.0,1.0,1.0,-1.3
+Isis,Female,Egyptian,,DC Comics,good,,2.0,1.0,0.4
 Jack Bauer,Male,,,,good,,,,
-Jack of Hearts,Male,Human,155.0,Marvel Comics,good,79.0,2.0,0.0,-0.23139037975301735
-Jack-Jack,Male,Human,71.0,Dark Horse Comics,good,14.0,2.0,2.0,4.695778292314869
-James Bond,Male,Human,183.0,Titan Books,good,96.3623188405797,1.0,0.0,-1.8104896959342538
-James T. Kirk,Male,Human,178.0,Star Trek,good,77.0,1.0,0.0,-2.019973078743718
-Jar Jar Binks,Male,Gungan,193.0,George Lucas,good,,0.0,0.0,-1.8271574839647813
-Jason Bourne,Male,Human,179.55633802816902,,good,96.3623188405797,1.0,0.0,-1.6561541861564473
-Jean Grey,Female,Mutant,168.0,Marvel Comics,good,52.0,1.0,2.0,2.951989198617053
-Jean-Luc Picard,Male,Human,179.55633802816902,Star Trek,good,96.3623188405797,0.0,0.0,-1.6045695189427132
-Jennifer Kale,Female,,168.0,Marvel Comics,good,55.0,0.0,1.0,-1.1059680752987577
-Jesse Quick,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,,,
-Jessica Cruz,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,1.0,0.5731805574337991
-Jessica Jones,Female,Human,170.0,Marvel Comics,good,56.0,1.0,0.0,-1.3456740710466013
-Jessica Sanders,Female,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,,,
-Jigsaw,Male,,188.0,Marvel Comics,bad,113.0,,,
-Jim Powell,Male,Noir,,ABC Studios,good,,1.0,0.0,-2.0290452466975872
-JJ Powell,Male,,,ABC Studios,good,,0.0,0.0,-2.2427337572971884
-Johann Krauss,Male,,,Dark Horse Comics,good,,0.0,0.0,-1.745047178126829
-John Constantine,Male,Human,183.0,DC Comics,good,96.3623188405797,0.0,0.0,-0.6103048442923966
-John Stewart,Male,Human,185.0,DC Comics,good,90.0,3.0,1.0,1.0803441124794808
-John Wraith,Male,Mutant,183.0,Marvel Comics,good,88.0,0.0,1.0,-1.3650375988056838
-Joker,Male,Human,196.0,DC Comics,bad,86.0,1.0,0.0,-1.8447440018842645
-Jolt,Female,Electro,165.0,Marvel Comics,good,49.0,2.0,0.0,-1.6110451839070004
-Jubilee,Female,Mutant,165.0,Marvel Comics,good,52.0,1.0,1.0,-1.2040011332276317
-Judge Dredd,Male,Human,188.0,Rebellion,good,96.3623188405797,1.0,0.0,-1.50042110206799
-Juggernaut,Male,Human,287.0,Marvel Comics,neutral,855.0,1.0,2.0,-0.009385996117127692
-Junkpile,Male,Mutant,183.1851851851852,Marvel Comics,bad,91.075,2.0,1.0,-0.30453796579561665
-Justice,Male,Human,178.0,Marvel Comics,good,81.0,2.0,1.0,-0.40551826917624795
-Jyn Erso,Female,Human,179.55633802816902,George Lucas,good,96.3623188405797,,,
-K-2SO,Male,Android,213.0,George Lucas,good,161.375,0.0,0.0,-2.1257178342032423
-Kang,Male,,191.0,Marvel Comics,bad,104.0,2.0,1.0,0.47791265806590305
-Karate Kid,Male,Human,173.0,DC Comics,good,72.0,2.0,0.0,-1.0491613795330426
-Kathryn Janeway,Female,Human,179.55633802816902,Star Trek,good,96.3623188405797,0.0,0.0,-2.2427337572971884
-Katniss Everdeen,Female,Human,179.55633802816902,,good,96.3623188405797,1.0,0.0,-2.0327224384175775
-Kevin 11,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,1.0,1.70889744713559
-Kick-Ass,Male,Human,179.55633802816902,Icon Comics,good,96.3623188405797,0.0,0.0,-2.142353753814372
-Kid Flash,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,0.0,0.0,-1.9224208518910373
-Kid Flash II,Male,,,DC Comics,good,,,,
-Killer Croc,Male,Metahuman,244.0,DC Comics,bad,356.0,1.0,0.0,-0.24120696046502108
-Killer Frost,Female,Human,179.55633802816902,DC Comics,bad,96.3623188405797,0.0,1.0,-1.1289770449463723
-Kilowog,Male,Bolovaxian,234.0,DC Comics,good,324.0,1.0,0.0,-1.0901627541311896
-King Kong,Male,Animal,30.5,,good,25.0,1.0,0.0,-0.4398463017280704
-King Shark,Male,Animal,76.25,DC Comics,bad,25.0,1.0,1.0,0.3630466450306465
+Jack of Hearts,Male,Human,155.0,Marvel Comics,good,79.0,2.0,1.0,-0.2
+Jack-Jack,Male,Human,71.0,Dark Horse Comics,good,14.0,2.0,4.0,4.6
+James Bond,Male,Human,183.0,Titan Books,good,95.9,2.0,1.0,-1.8
+James T. Kirk,Male,Human,178.0,Star Trek,good,77.0,2.0,0.0,-2.0
+Jar Jar Binks,Male,Gungan,193.0,George Lucas,good,,0.0,0.0,-1.8
+Jason Bourne,Male,Human,179.4,,good,95.9,2.0,1.0,-1.6
+Jean Grey,Female,Mutant,168.0,Marvel Comics,good,52.0,1.0,2.0,2.9
+Jean-Luc Picard,Male,Human,179.4,Star Trek,good,95.9,1.0,0.0,-1.6
+Jennifer Kale,Female,Human,168.0,Marvel Comics,good,55.0,1.0,1.0,-1.1
+Jesse Quick,Female,Human,179.4,DC Comics,good,95.9,,,
+Jessica Cruz,Female,Human,179.4,DC Comics,good,95.9,3.0,1.0,0.6
+Jessica Jones,Female,Human,170.0,Marvel Comics,good,56.0,1.0,1.0,-1.4
+Jessica Sanders,Female,Human,179.4,NBC - Heroes,good,95.9,,,
+Jigsaw,Male,Human,188.0,Marvel Comics,bad,113.0,,,
+Jim Powell,Male,Human,179.4,ABC Studios,good,95.9,1.0,1.0,-2.0
+JJ Powell,Male,Human,179.4,ABC Studios,good,95.9,0.0,0.0,-2.3
+Johann Krauss,Male,Human,179.4,Dark Horse Comics,good,95.9,0.0,0.0,-1.8
+John Constantine,Male,Human,183.0,DC Comics,good,95.9,1.0,0.0,-0.6
+John Stewart,Male,Human,185.0,DC Comics,good,90.0,4.0,2.0,1.1
+John Wraith,Male,Mutant,183.0,Marvel Comics,good,88.0,0.0,1.0,-1.4
+Joker,Male,Human,196.0,DC Comics,bad,86.0,2.0,1.0,-1.8
+Jolt,Female,Human,165.0,Marvel Comics,good,49.0,2.0,0.0,-1.6
+Jubilee,Female,Mutant,165.0,Marvel Comics,good,52.0,1.0,1.0,-1.2
+Judge Dredd,Male,Human,188.0,Rebellion,good,95.9,2.0,0.0,-1.5
+Juggernaut,Male,Human,287.0,Marvel Comics,neutral,855.0,1.0,3.0,-0.0
+Junkpile,Male,Mutant,182.0,Marvel Comics,bad,88.6,2.0,3.0,-0.3
+Justice,Male,Human,178.0,Marvel Comics,good,81.0,2.0,1.0,-0.4
+Jyn Erso,Female,Human,179.4,George Lucas,good,95.9,,,
+K-2SO,Male,Android,213.0,George Lucas,good,165.1,1.0,1.0,-2.1
+Kang,Male,Human,191.0,Marvel Comics,bad,104.0,2.0,2.0,0.4
+Karate Kid,Male,Human,173.0,DC Comics,good,72.0,2.0,0.0,-1.0
+Kathryn Janeway,Female,Human,179.4,Star Trek,good,95.9,0.0,0.0,-2.3
+Katniss Everdeen,Female,Human,179.4,,good,95.9,2.0,0.0,-2.0
+Kevin 11,Male,Human,179.4,DC Comics,good,95.9,1.0,1.0,1.7
+Kick-Ass,Male,Human,179.4,Icon Comics,good,95.9,0.0,1.0,-2.1
+Kid Flash,Male,Human,179.4,DC Comics,good,95.9,0.0,0.0,-1.9
+Kid Flash II,Male,Human,179.4,DC Comics,good,95.9,,,
+Killer Croc,Male,Metahuman,244.0,DC Comics,bad,356.0,1.0,2.0,-0.2
+Killer Frost,Female,Human,179.4,DC Comics,bad,95.9,1.0,2.0,-1.1
+Kilowog,Male,Bolovaxian,234.0,DC Comics,good,324.0,1.0,1.0,-1.1
+King Kong,Male,Animal,30.5,,good,25.0,1.0,1.0,-0.4
+King Shark,Male,Animal,76.2,DC Comics,bad,25.0,2.0,3.0,0.4
 Kingpin,Male,Human,201.0,Marvel Comics,bad,203.0,,,
-Klaw,Male,Human,188.0,Marvel Comics,bad,97.0,2.0,1.0,-0.8115193919490428
-Kool-Aid Man,Male,,,,good,,0.0,0.0,-2.629496771074614
-Kraven II,Male,Human,191.0,Marvel Comics,bad,99.0,1.0,0.0,-1.2516219597039233
-Kraven the Hunter,Male,Human,183.0,Marvel Comics,bad,106.0,1.0,0.0,-1.3329572699586265
-Krypto,Male,Kryptonian,64.0,DC Comics,good,18.0,1.0,1.0,2.2314063540147653
-Kyle Rayner,Male,Human,180.0,DC Comics,good,79.0,2.0,1.0,1.4138847942351715
-Kylo Ren,Male,Human,179.55633802816902,George Lucas,bad,96.3623188405797,4.0,1.0,4.141226601065335
-Lady Bullseye,Female,,,Marvel Comics,bad,,0.0,0.0,-2.416983838973134
-Lady Deathstrike,Female,Cyborg,175.0,Marvel Comics,bad,58.0,1.0,0.0,-0.7597548531763925
-Leader,Male,Human,178.0,Marvel Comics,bad,63.0,1.0,0.0,-1.3668167561490172
-Leech,Male,,,Marvel Comics,good,,0.0,0.0,-2.166815883792739
-Legion,Male,Mutant,175.0,Marvel Comics,good,59.0,2.0,2.0,9.37323893918969
-Leonardo,Male,Mutant,183.1851851851852,IDW Publishing,good,91.075,1.0,0.0,-1.4377516851673546
-Lex Luthor,Male,Human,188.0,DC Comics,bad,95.0,3.0,1.0,0.02969250140706378
-Light Lass,Female,Daxamite,165.0,DC Comics,good,54.0,0.0,0.0,-1.2531137953042162
-Lightning Lad,Male,,155.0,DC Comics,good,65.0,0.0,0.0,-2.3164959539497385
-Lightning Lord,Male,,191.0,DC Comics,bad,95.0,0.0,1.0,-1.8707708477327274
-Living Brain,,Artificial,198.0,Marvel Comics,bad,360.0,1.0,0.0,-1.5981026154731206
-Living Tribunal,,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,3.0,3.0,17.68881857356303
-Liz Sherman,Female,Human,179.55633802816902,Dark Horse Comics,good,96.3623188405797,0.0,0.0,-2.011132491941459
-Lizard,Male,Human,203.0,Marvel Comics,bad,230.0,1.0,0.0,-0.908504426827599
-Lobo,Male,Czarnian,229.0,DC Comics,neutral,288.0,1.0,1.0,1.683057142856842
-Loki,Male,Asgardian,193.0,Marvel Comics,bad,236.0,1.0,0.0,1.6692708524005255
-Longshot,Male,Human,188.0,Marvel Comics,good,36.0,0.0,0.0,-0.6144143828785836
-Luke Cage,Male,Human,198.0,Marvel Comics,good,191.0,1.0,1.0,-1.1386388693345315
-Luke Campbell,Male,,,NBC - Heroes,bad,,0.0,0.0,-2.297951514706533
-Luke Skywalker,Male,Human,168.0,George Lucas,good,77.0,3.0,1.0,5.522090083599538
-Luna,Female,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,0.0,0.0,-2.2122284069036713
-Lyja,Female,Skrull,,Marvel Comics,good,,1.0,0.0,-1.5608888461110013
-Mach-IV,Male,Human,180.0,Marvel Comics,bad,79.0,1.0,0.0,-1.6500035546768796
-Machine Man,,,183.0,Marvel Comics,good,383.0,1.0,0.0,-1.7862705168465522
-Magneto,Male,Mutant,188.0,Marvel Comics,bad,86.0,1.0,1.0,0.2465524467492305
-Magog,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,0.0,-1.5137968009761296
-Magus,Male,,183.0,Marvel Comics,bad,,1.0,1.0,0.9406197395126762
-Man of Miracles,,God / Eternal,155.0,Image Comics,,209.5,2.0,3.0,20.84889714477898
-Man-Bat,Male,Human,179.55633802816902,DC Comics,neutral,96.3623188405797,1.0,0.0,-1.110973219849048
-Man-Thing,Male,,213.0,Marvel Comics,good,225.0,1.0,1.0,-0.8521173463708346
-Man-Wolf,Male,Lycanthrope,188.0,Marvel Comics,good,90.0,1.0,0.0,-0.47716375927246824
-Mandarin,Male,Human,188.0,Marvel Comics,bad,97.0,2.0,0.0,0.49897058464844773
-Mantis,Female,Human-Kree,168.0,Marvel Comics,good,52.0,1.0,0.0,2.5334493076461215
-Martian Manhunter,Male,Martian,201.0,DC Comics,good,135.0,2.0,1.0,9.679749124994203
-Marvel Girl,Female,Mutant,170.0,Marvel Comics,good,56.0,2.0,2.0,2.760923231349337
-Master Brood,Male,,183.0,Team Epic TV,good,81.0,0.0,0.0,-1.3654057685330285
-Master Chief,Male,Human / Altered,213.0,Microsoft,good,217.0,0.0,1.0,-0.4015614590111481
-Match,Male,Human,179.55633802816902,DC Comics,bad,96.3623188405797,3.0,2.0,2.8165380518589016
-Matt Parkman,Male,Telepath,,NBC - Heroes,good,,0.0,0.0,-2.1028458807487245
-Maverick,Male,Mutant,193.0,Marvel Comics,good,110.0,0.0,0.0,-2.3164959539497385
-Maxima,Female,Maxima,180.0,DC Comics,bad,72.0,2.0,1.0,0.43195319238807023
-Maya Herrera,Female,Inviso,,NBC - Heroes,good,,0.0,0.0,-2.622614027151389
-Medusa,Female,Inhuman,180.0,Marvel Comics,good,59.0,2.0,0.0,-1.324724790241554
-Meltdown,Female,Domino,165.0,Marvel Comics,good,54.0,1.0,1.0,0.10120343667008388
-Mephisto,Male,,198.0,Marvel Comics,bad,140.0,2.0,0.0,4.4621043262343365
-Mera,Female,Atlantean,175.0,DC Comics,good,72.0,1.0,0.0,0.5768557611314685
-Metallo,Male,Android,196.0,DC Comics,bad,90.0,1.0,0.0,-0.5400575740079494
-Metamorpho,Male,,185.0,DC Comics,good,90.0,0.0,0.0,-2.0959155080918115
-Meteorite,Female,Kymellian,,Marvel Comics,good,,,,
-Metron,Male,,185.0,DC Comics,good,86.0,0.0,1.0,-0.3233902138549267
-Micah Sanders,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.2926838573581803
-Michelangelo,Male,Mutant,183.1851851851852,IDW Publishing,good,91.075,1.0,0.0,-1.4377516851673546
-Micro Lad,Male,Human,183.0,DC Comics,good,77.0,0.0,0.0,-2.1220570668826313
-Mimic,Male,,188.0,Marvel Comics,good,101.0,3.0,0.0,-0.3435781915917659
-Minna Murray,Female,Vampire,188.0,Wildstorm,good,97.0,1.0,0.0,-1.2762905376091718
-Misfit,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,1.0,-1.447353194468124
-Miss Martian,Female,,178.0,DC Comics,good,61.0,3.0,2.0,3.657600073661971
-Mister Fantastic,Male,Human / Radiation,185.0,Marvel Comics,good,81.0,0.0,0.0,-1.0624262777313924
-Mister Freeze,Male,Human,183.0,DC Comics,bad,86.0,1.0,0.0,-1.408558788985946
-Mister Knife,Male,Spartoi,163.0,Marvel Comics,bad,56.0,1.0,0.0,-2.2685525940976596
-Mister Mxyzptlk,Male,God / Eternal,155.0,DC Comics,bad,209.5,2.0,3.0,15.040619081063788
-Mister Sinister,Male,Human / Altered,196.0,Marvel Comics,bad,128.0,3.0,2.0,4.774672344743627
-Mister Zsasz,Male,Human,179.55633802816902,DC Comics,bad,96.3623188405797,,,
-Mockingbird,Female,Human,175.0,Marvel Comics,good,61.0,2.0,0.0,-1.3255269648180026
-MODOK,Male,Cyborg,366.0,Marvel Comics,bad,338.0,3.0,1.0,2.2741277348794164
+Klaw,Male,Human,188.0,Marvel Comics,bad,97.0,2.0,2.0,-0.8
+Kool-Aid Man,Male,,,,good,,0.0,1.0,-2.7
+Kraven II,Male,Human,191.0,Marvel Comics,bad,99.0,2.0,1.0,-1.2
+Kraven the Hunter,Male,Human,183.0,Marvel Comics,bad,106.0,1.0,0.0,-1.3
+Krypto,Male,Kryptonian,64.0,DC Comics,good,18.0,2.0,1.0,2.2
+Kyle Rayner,Male,Human,180.0,DC Comics,good,79.0,3.0,1.0,1.4
+Kylo Ren,Male,Human,179.4,George Lucas,bad,95.9,5.0,3.0,4.2
+Lady Bullseye,Female,Japanese,,Marvel Comics,bad,,1.0,0.0,-2.4
+Lady Deathstrike,Female,Cyborg,175.0,Marvel Comics,bad,58.0,1.0,1.0,-0.7
+Leader,Male,Human,178.0,Marvel Comics,bad,63.0,1.0,0.0,-1.4
+Leech,Male,Mutant,182.0,Marvel Comics,good,88.6,0.0,0.0,-2.2
+Legion,Male,Mutant,175.0,Marvel Comics,good,59.0,4.0,2.0,9.4
+Leonardo,Male,Mutant,182.0,IDW Publishing,good,88.6,2.0,0.0,-1.4
+Lex Luthor,Male,Human,188.0,DC Comics,bad,95.0,3.0,2.0,0.0
+Light Lass,Female,Carggite,165.0,DC Comics,good,54.0,0.0,0.0,-1.3
+Lightning Lad,Male,Winathian,155.0,DC Comics,good,65.0,0.0,0.0,-2.3
+Lightning Lord,Male,Winathian,191.0,DC Comics,bad,95.0,0.0,1.0,-1.9
+Living Brain,,Robot,198.0,Marvel Comics,bad,360.0,1.0,1.0,-1.6
+Living Tribunal,,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,4.0,4.0,17.6
+Liz Sherman,Female,Human,179.4,Dark Horse Comics,good,95.9,1.0,0.0,-2.0
+Lizard,Male,Human,203.0,Marvel Comics,bad,230.0,2.0,3.0,-0.9
+Lobo,Male,Czarnian,229.0,DC Comics,neutral,288.0,1.0,5.0,1.7
+Loki,Male,Asgardian,193.0,Marvel Comics,bad,236.0,2.0,1.0,1.6
+Longshot,Male,Human,188.0,Marvel Comics,good,36.0,0.0,0.0,-0.6
+Luke Cage,Male,Human,198.0,Marvel Comics,good,191.0,1.0,2.0,-1.1
+Luke Campbell,Male,Human,179.4,NBC - Heroes,bad,95.9,0.0,0.0,-2.3
+Luke Skywalker,Male,Human,168.0,George Lucas,good,77.0,4.0,2.0,5.6
+Luna,Female,Human,179.4,Marvel Comics,good,95.9,0.0,0.0,-2.2
+Lyja,Female,Skrull,,Marvel Comics,good,,1.0,0.0,-1.6
+Mach-IV,Male,Human,180.0,Marvel Comics,bad,79.0,1.0,1.0,-1.7
+Machine Man,,Eternal,183.0,Marvel Comics,good,383.0,1.0,1.0,-1.8
+Magneto,Male,Mutant,188.0,Marvel Comics,bad,86.0,1.0,3.0,0.2
+Magog,Male,,,DC Comics,good,,2.0,1.0,-1.5
+Magus,Male,Technarch,183.0,Marvel Comics,bad,,1.0,2.0,0.9
+Man of Miracles,,God / Eternal,155.0,Image Comics,,209.5,3.0,5.0,20.7
+Man-Bat,Male,Human,179.4,DC Comics,neutral,95.9,2.0,0.0,-1.1
+Man-Thing,Male,Nexus,213.0,Marvel Comics,good,225.0,1.0,3.0,-0.8
+Man-Wolf,Male,Human,188.0,Marvel Comics,good,90.0,2.0,1.0,-0.5
+Mandarin,Male,Human,188.0,Marvel Comics,bad,97.0,3.0,0.0,0.5
+Mantis,Female,Human-Kree,168.0,Marvel Comics,good,52.0,2.0,2.0,2.5
+Martian Manhunter,Male,Martian,201.0,DC Comics,good,135.0,3.0,5.0,9.7
+Marvel Girl,Female,Mutant,170.0,Marvel Comics,good,56.0,3.0,2.0,2.7
+Master Brood,Male,,183.0,Team Epic TV,good,81.0,0.0,1.0,-1.4
+Master Chief,Male,Human / Altered,213.0,Microsoft,good,217.0,1.0,4.0,-0.4
+Match,Male,Kryptonian,158.3,DC Comics,bad,66.5,3.0,3.0,2.8
+Matt Parkman,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.1
+Maverick,Male,Human,193.0,Marvel Comics,good,110.0,0.0,0.0,-2.3
+Maxima,Female,Almeracian,180.0,DC Comics,bad,72.0,2.0,2.0,0.4
+Maya Herrera,Female,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.6
+Medusa,Female,Inhuman,180.0,Marvel Comics,good,59.0,2.0,1.0,-1.3
+Meltdown,Female,Mutant,165.0,Marvel Comics,good,54.0,1.0,1.0,0.0
+Mephisto,Male,Demon,198.0,Marvel Comics,bad,140.0,3.0,2.0,4.4
+Mera,Female,Atlantean,175.0,DC Comics,good,72.0,1.0,1.0,0.6
+Metallo,Male,Android,196.0,DC Comics,bad,90.0,1.0,2.0,-0.6
+Metamorpho,Male,Human,185.0,DC Comics,good,90.0,0.0,0.0,-2.1
+Meteorite,Female,Human,179.4,Marvel Comics,good,95.9,,,
+Metron,Male,,185.0,DC Comics,good,86.0,0.0,1.0,-0.3
+Micah Sanders,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.3
+Michelangelo,Male,Mutant,182.0,IDW Publishing,good,88.6,2.0,0.0,-1.4
+Micro Lad,Male,Coluan,183.0,DC Comics,good,77.0,0.0,0.0,-2.1
+Mimic,Male,Mutant,188.0,Marvel Comics,good,101.0,4.0,1.0,-0.3
+Minna Murray,Female,Human,179.4,Wildstorm,good,95.9,1.0,2.0,-1.3
+Misfit,Female,Human,179.4,DC Comics,good,95.9,1.0,1.0,-1.5
+Miss Martian,Female,Martian,178.0,DC Comics,good,61.0,3.0,2.0,3.6
+Mister Fantastic,Male,Human / Radiation,185.0,Marvel Comics,good,81.0,0.0,1.0,-1.1
+Mister Freeze,Male,Human,183.0,DC Comics,bad,86.0,1.0,1.0,-1.4
+Mister Knife,Male,Spartoi,,Marvel Comics,bad,,1.0,0.0,-2.3
+Mister Mxyzptlk,Male,God / Eternal,155.0,DC Comics,bad,209.5,5.0,5.0,15.0
+Mister Sinister,Male,Human / Altered,196.0,Marvel Comics,bad,128.0,4.0,3.0,4.8
+Mister Zsasz,Male,Human,179.4,DC Comics,bad,95.9,,,
+Mockingbird,Female,Human,175.0,Marvel Comics,good,61.0,2.0,1.0,-1.3
+MODOK,Male,Cyborg,366.0,Marvel Comics,bad,338.0,3.0,1.0,2.2
 Mogo,Male,Planet,,DC Comics,good,,,,
-Mohinder Suresh,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,1.0,0.0,-2.271925871749081
+Mohinder Suresh,Male,Human,179.4,NBC - Heroes,good,95.9,1.0,0.0,-2.3
 Moloch,Male,,,DC Comics,bad,,,,
-Molten Man,Male,Human,196.0,Marvel Comics,bad,248.0,1.0,0.0,-1.5708172411382069
-Monarch,Male,Monarch,193.0,DC Comics,good,90.0,1.0,2.0,0.24460806646719702
-Monica Dawson,Female,Metahuman,205.0,NBC - Heroes,good,182.0,0.0,0.0,-2.737099207089482
-Moon Knight,Male,Human,188.0,Marvel Comics,good,101.0,2.0,0.0,-1.795850505872246
-Moonstone,Female,Moonstone,180.0,Marvel Comics,bad,59.0,2.0,0.0,0.3247022763780936
-Morlun,Male,,188.0,Marvel Comics,bad,79.0,1.0,0.0,-1.0312770591976397
-Morph,Male,,178.0,Marvel Comics,good,79.0,,,
-Moses Magnum,Male,,175.0,Marvel Comics,bad,72.0,0.0,0.0,-2.6573322416110257
-Mr Immortal,Male,Mutant,188.0,Marvel Comics,good,70.0,0.0,0.0,-1.3654057685330285
-Mr Incredible,Male,Human,201.0,Dark Horse Comics,good,158.0,1.0,1.0,-0.9782749885417013
-Ms Marvel II,Female,Human,173.0,Marvel Comics,good,61.0,1.0,0.0,-2.1377134766706396
-Multiple Man,Male,Mutant,180.0,Marvel Comics,good,70.0,0.0,0.0,-1.82837986541699
-Mysterio,Male,Human,180.0,Marvel Comics,bad,79.0,1.0,0.0,0.38668378194266034
-Mystique,Female,Mutant,178.0,Marvel Comics,bad,54.0,2.0,0.0,0.22624196968816312
-Namor,Male,Atlantean,178.42857142857142,Marvel Comics,good,101.0,1.0,0.0,1.28507328959906
-Namor,Male,Atlantean,178.42857142857142,Marvel Comics,good,101.0,1.0,0.0,1.28507328959906
-Namor,Male,Atlantean,188.0,Marvel Comics,good,125.0,1.0,0.0,1.28507328959906
-Namor,Male,Atlantean,188.0,Marvel Comics,good,125.0,1.0,0.0,1.28507328959906
-Namora,Female,Atlantean,180.0,Marvel Comics,good,85.0,1.0,0.0,-0.2999309763623684
-Namorita,Female,Atlantean,168.0,Marvel Comics,good,101.0,1.0,0.0,-0.599163281321942
-Naruto Uzumaki,Male,Human,168.0,Shueisha,good,54.0,2.0,1.0,3.9780971169031156
-Nathan Petrelli,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.187834610465049
-Nebula,Female,Luphomoid,185.0,Marvel Comics,bad,83.0,1.0,0.0,-2.069607701163894
-Negasonic Teenage Warhead,Female,Mutant,183.1851851851852,Marvel Comics,good,91.075,0.0,0.0,-1.3526996954394692
-Nick Fury,Male,Human,185.0,Marvel Comics,good,99.0,1.0,0.0,-2.185963730919904
-Nightcrawler,Male,,175.0,Marvel Comics,good,88.0,0.0,1.0,-1.3441794584258884
-Nightwing,Male,Human,178.0,DC Comics,good,79.0,1.0,0.0,-2.1097695914669243
-Niki Sanders,Female,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,1.0,0.0,-2.271925871749081
-Nina Theroux,Female,Alpha,,SyFy,good,,0.0,0.0,-1.87320754271327
-Nite Owl II,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,,,
-Northstar,Male,Human,180.0,Marvel Comics,good,83.0,0.0,0.0,-1.5072309481680906
-Nova,Male,Human,185.0,Marvel Comics,good,86.0,2.0,2.0,5.337494548288028
-Nova,Male,Human,185.0,Marvel Comics,good,86.0,2.0,2.0,5.337494548288028
-Nova,Female,Human / Cosmic,163.0,Marvel Comics,good,59.0,2.0,2.0,5.337494548288028
-Nova,Female,Human / Cosmic,163.0,Marvel Comics,good,59.0,2.0,2.0,5.337494548288028
-Odin,Male,God / Eternal,206.0,Marvel Comics,good,293.0,3.0,4.0,10.908296799986536
-Offspring,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,0.0,1.0,0.8324032969434089
+Molten Man,Male,Human,196.0,Marvel Comics,bad,248.0,1.0,1.0,-1.6
+Monarch,Male,Human,193.0,DC Comics,good,90.0,1.0,2.0,0.2
+Monica Dawson,Female,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.8
+Moon Knight,Male,Human,188.0,Marvel Comics,good,101.0,3.0,0.0,-1.8
+Moonstone,Female,Human,180.0,Marvel Comics,bad,59.0,2.0,1.0,0.3
+Morlun,Male,Inheritors,188.0,Marvel Comics,bad,79.0,1.0,2.0,-1.0
+Morph,Male,Mutant,178.0,Marvel Comics,good,79.0,,,
+Moses Magnum,Male,Human,175.0,Marvel Comics,bad,72.0,0.0,0.0,-2.7
+Mr Immortal,Male,Mutant,188.0,Marvel Comics,good,70.0,0.0,1.0,-1.4
+Mr Incredible,Male,Human,201.0,Dark Horse Comics,good,158.0,1.0,3.0,-1.0
+Ms Marvel II,Female,Human,173.0,Marvel Comics,good,61.0,1.0,1.0,-2.2
+Multiple Man,Male,Mutant,180.0,Marvel Comics,good,70.0,0.0,0.0,-1.8
+Mysterio,Male,Human,180.0,Marvel Comics,bad,79.0,2.0,0.0,0.4
+Mystique,Female,Mutant,178.0,Marvel Comics,bad,54.0,3.0,0.0,0.3
+Namor,Male,Atlantean,188.0,Marvel Comics,good,125.0,1.0,2.0,1.4
+Namora,Female,Atlantean,180.0,Marvel Comics,good,85.0,1.0,1.0,-0.3
+Namorita,Female,Atlantean,168.0,Marvel Comics,good,101.0,1.0,1.0,-0.6
+Naruto Uzumaki,Male,Human,168.0,Shueisha,good,54.0,5.0,2.0,4.0
+Nathan Petrelli,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.2
+Nebula,Female,Luphomoid,185.0,Marvel Comics,bad,83.0,2.0,1.0,-2.1
+Negasonic Teenage Warhead,Female,Mutant,182.0,Marvel Comics,good,88.6,0.0,0.0,-1.4
+Nick Fury,Male,Human,185.0,Marvel Comics,good,99.0,1.0,0.0,-2.2
+Nightcrawler,Male,Mutant,175.0,Marvel Comics,good,88.0,0.0,2.0,-1.3
+Nightwing,Male,Human,178.0,DC Comics,good,79.0,2.0,0.0,-2.1
+Niki Sanders,Female,Human,179.4,NBC - Heroes,good,95.9,1.0,0.0,-2.3
+Nina Theroux,Female,Alpha,,SyFy,good,,0.0,0.0,-1.9
+Nite Owl II,Male,Human,179.4,DC Comics,good,95.9,,,
+Northstar,Male,Mutant,180.0,Marvel Comics,good,83.0,0.0,1.0,-1.5
+Nova,Male,Human,185.0,Marvel Comics,good,86.0,3.0,3.0,5.3
+Nova,Male,Human,185.0,Marvel Comics,good,86.0,3.0,3.0,5.3
+Nova,Female,Human / Cosmic,163.0,Marvel Comics,good,59.0,3.0,3.0,5.3
+Nova,Female,Human / Cosmic,163.0,Marvel Comics,good,59.0,3.0,3.0,5.3
+Odin,Male,God / Eternal,206.0,Marvel Comics,good,293.0,5.0,5.0,10.9
+Offspring,Male,Metahuman,200.7,DC Comics,good,168.7,0.0,2.0,0.8
 Omega Red,Male,Mutant,211.0,Marvel Comics,bad,191.0,,,
-Omniscient,Male,,180.0,Team Epic TV,good,65.0,0.0,1.0,-0.5889096632168618
-One Punch Man,Male,Human,175.0,Shueisha,good,69.0,1.0,1.0,-0.5403316121047086
-One-Above-All,,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,1.0,3.0,19.47899375069043
-Onslaught,Male,Mutant,305.0,Marvel Comics,bad,405.0,2.0,2.0,7.646254759025673
-Oracle,Female,Human,178.0,DC Comics,good,59.0,0.0,0.0,-2.2427337572971884
-Osiris,Male,,,DC Comics,good,,1.0,1.0,0.6046383659778961
-Overtkill,Male,Mutant,183.1851851851852,Image Comics,bad,91.075,1.0,0.0,-1.8092354014128353
-Ozymandias,Male,Human,179.55633802816902,DC Comics,bad,96.3623188405797,0.0,0.0,-1.1004632081969288
-Parademon,,Parademon,,DC Comics,bad,,1.0,0.0,-0.7391722540394666
+Omniscient,Male,,180.0,Team Epic TV,good,65.0,0.0,1.0,-0.6
+One Punch Man,Male,Human,175.0,Shueisha,good,69.0,1.0,2.0,-0.5
+One-Above-All,,Cosmic Entity,876.0,Marvel Comics,neutral,16.0,2.0,6.0,19.3
+Onslaught,Male,Mutant,305.0,Marvel Comics,bad,405.0,2.0,3.0,7.6
+Oracle,Female,Human,178.0,DC Comics,good,59.0,0.0,0.0,-2.3
+Osiris,Male,Human,179.4,DC Comics,good,95.9,1.0,2.0,0.6
+Overtkill,Male,Cyborg,220.5,Image Comics,bad,166.1,1.0,1.0,-1.8
+Ozymandias,Male,Human,179.4,DC Comics,bad,95.9,0.0,0.0,-1.1
+Parademon,,Parademon,,DC Comics,bad,,1.0,0.0,-0.8
 Paul Blart,Male,Human,170.0,Sony Pictures,good,117.0,,,
-Penance,,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Penance I,Female,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Penance II,Male,Mutant,183.0,Marvel Comics,good,89.0,1.0,0.0,-2.159822087414248
-Penguin,Male,Human,157.0,DC Comics,bad,79.0,0.0,0.0,-2.2427337572971884
-Peter Petrelli,Male,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.2186674769141823
-Phantom,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,0.0,0.0,-2.5159576186766306
-Phantom Girl,Female,Durlan,168.0,DC Comics,good,54.0,0.0,0.0,-1.7766928941596762
-Phoenix,Female,Mutant,168.0,Marvel Comics,good,52.0,1.0,2.0,5.7192226470842895
-Plantman,Male,Mutant,183.0,Marvel Comics,bad,87.0,1.0,1.0,-1.4495718785370584
+Penance,Female,Mutant,182.0,Marvel Comics,good,88.6,,,
+Penance II,Female,Human,183.0,Marvel Comics,good,89.0,1.0,0.0,-2.2
+Penguin,Male,Human,157.0,DC Comics,bad,79.0,0.0,0.0,-2.3
+Peter Petrelli,Male,Human,179.4,NBC - Heroes,good,95.9,0.0,0.0,-2.2
+Phantom,Male,Human,179.4,DC Comics,good,95.9,1.0,0.0,-2.5
+Phantom Girl,Female,Bgztlian,168.0,DC Comics,good,54.0,0.0,1.0,-1.8
+Phoenix,Female,Mutant,168.0,Marvel Comics,good,52.0,2.0,3.0,5.6
+Plantman,Male,Mutant,183.0,Marvel Comics,bad,87.0,1.0,2.0,-1.5
 Plastic Lad,Male,,,DC Comics,good,,,,
-Plastic Man,Male,Human,185.0,DC Comics,good,80.0,1.0,1.0,1.1755140595621394
-Plastique,Female,Mutant,168.0,DC Comics,bad,55.0,1.0,0.0,-2.159822087414248
-Poison Ivy,Female,Human,168.0,DC Comics,bad,50.0,1.0,0.0,-0.054959032315533306
-Polaris,Female,Mutant,170.0,Marvel Comics,good,52.0,0.0,2.0,0.7893241774692108
-Power Girl,Female,Kryptonian,180.0,DC Comics,good,81.0,1.0,2.0,4.812149071022553
-Power Man,Male,Mutant,183.1851851851852,Marvel Comics,good,91.075,,,
-Predator,Male,Yautja,213.0,Dark Horse Comics,bad,234.0,2.0,0.0,1.1571510230618132
-Professor X,Male,Mutant,183.0,Marvel Comics,good,86.0,0.0,0.0,0.7206790802194677
-Professor Zoom,Male,Human,180.0,DC Comics,bad,81.0,0.0,0.0,-0.542106791178029
-Proto-Goblin,Male,Ogre,,Marvel Comics,bad,,1.0,0.0,-2.012929957647841
-Psylocke,Female,Mutant,180.0,Marvel Comics,good,70.0,2.0,0.0,2.6519846430735057
-Punisher,Male,Human,183.0,Marvel Comics,good,90.0,1.0,0.0,-2.142642065840151
-Purple Man,Male,Human,180.0,Marvel Comics,bad,74.0,0.0,0.0,-0.9885628309046006
-Pyro,Male,Human,178.0,Marvel Comics,bad,68.0,0.0,0.0,-2.011132491941459
-Q,Male,God / Eternal,155.0,Star Trek,,209.5,1.0,2.0,7.022402804773409
-Quantum,Male,,,HarperCollins,good,,0.0,0.0,-2.2247474414344524
-Question,Male,Human,188.0,DC Comics,good,83.0,0.0,0.0,-2.0883982475193803
-Quicksilver,Male,Mutant,183.0,Marvel Comics,good,79.0,1.0,0.0,-0.18732298654486068
-Quill,Male,Spartoi,163.0,Marvel Comics,good,56.0,0.0,0.0,-2.561120304505219
-Ra's Al Ghul,Male,Human,193.0,DC Comics,bad,97.0,1.0,0.0,-1.1015472604950134
-Rachel Pirzad,Female,Alpha,,SyFy,good,,0.0,0.0,-0.7086779519745215
-Rambo,Male,Human,178.0,,good,83.0,1.0,0.0,-2.1079934261486004
-Raphael,Male,Mutant,183.1851851851852,IDW Publishing,good,91.075,1.0,0.0,-1.4377516851673546
-Raven,Female,Human,165.0,DC Comics,neutral,50.0,1.0,1.0,-0.1531263741019513
-Ray,Male,Human,178.0,DC Comics,good,70.0,0.0,3.0,3.4159953350267336
-Razor-Fist II,Male,Human,191.0,Marvel Comics,bad,117.0,0.0,0.0,-2.7292216369808937
-Red Arrow,Male,Human,180.0,DC Comics,good,83.0,1.0,0.0,-2.1079934261486004
-Red Hood,Male,Human,183.0,DC Comics,neutral,81.0,1.0,0.0,-2.03988233640043
-Red Hulk,Male,Human / Radiation,213.0,Marvel Comics,neutral,630.0,1.0,1.0,0.28551438451098077
-Red Mist,Male,Human,179.55633802816902,Icon Comics,bad,96.3623188405797,0.0,0.0,-2.2066788938263184
-Red Robin,Male,Human,165.0,DC Comics,good,56.0,1.0,0.0,-1.8656375689659108
-Red Skull,Male,Human,188.0,Marvel Comics,bad,108.0,0.0,0.0,-2.148712998148856
-Red Tornado,Male,Android,185.0,DC Comics,good,146.0,1.0,1.0,1.2308090618529444
-Redeemer II,Male,Mutant,183.1851851851852,Image Comics,bad,91.075,2.0,1.0,-0.6560288030221071
-Redeemer III,Male,Mutant,183.1851851851852,Image Comics,bad,91.075,1.0,0.0,-1.2062874138104516
+Plastic Man,Male,Human,185.0,DC Comics,good,80.0,1.0,3.0,1.2
+Plastique,Female,Human,168.0,DC Comics,bad,55.0,1.0,0.0,-2.2
+Poison Ivy,Female,Human,168.0,DC Comics,bad,50.0,2.0,0.0,-0.0
+Polaris,Female,Mutant,170.0,Marvel Comics,good,52.0,0.0,3.0,0.7
+Power Girl,Female,Kryptonian,180.0,DC Comics,good,81.0,1.0,4.0,4.8
+Power Man,Male,Mutant,182.0,Marvel Comics,good,88.6,,,
+Predator,Male,Yautja,213.0,Dark Horse Comics,bad,234.0,3.0,2.0,1.3
+Professor X,Male,Mutant,183.0,Marvel Comics,good,86.0,0.0,0.0,0.7
+Professor Zoom,Male,Human,180.0,DC Comics,bad,81.0,0.0,1.0,-0.6
+Proto-Goblin,Male,Human,179.4,Marvel Comics,bad,95.9,1.0,1.0,-2.0
+Psylocke,Female,Mutant,180.0,Marvel Comics,good,70.0,2.0,0.0,2.6
+Punisher,Male,Human,183.0,Marvel Comics,good,90.0,2.0,1.0,-2.1
+Purple Man,Male,Human,180.0,Marvel Comics,bad,74.0,0.0,0.0,-1.0
+Pyro,Male,Mutant,178.0,Marvel Comics,bad,68.0,1.0,0.0,-2.0
+Q,Male,God / Eternal,155.0,Star Trek,,209.5,2.0,4.0,7.0
+Quantum,Male,Human / Altered,,HarperCollins,good,,0.0,0.0,-2.2
+Question,Male,Human,188.0,DC Comics,good,83.0,0.0,0.0,-2.1
+Quicksilver,Male,Mutant,183.0,Marvel Comics,good,79.0,1.0,1.0,-0.2
+Quill,Male,Human,163.0,Marvel Comics,good,56.0,0.0,0.0,-2.6
+Ra's Al Ghul,Male,Human,193.0,DC Comics,bad,97.0,1.0,1.0,-1.1
+Rachel Pirzad,Female,Alpha,,SyFy,good,,0.0,1.0,-0.7
+Rambo,Male,Human,178.0,,good,83.0,2.0,0.0,-2.1
+Raphael,Male,Mutant,182.0,IDW Publishing,good,88.6,2.0,0.0,-1.4
+Raven,Female,Human,165.0,DC Comics,neutral,50.0,1.0,1.0,-0.2
+Ray,Male,Human,178.0,DC Comics,good,70.0,0.0,4.0,3.4
+Razor-Fist II,Male,Human,191.0,Marvel Comics,bad,117.0,0.0,0.0,-2.7
+Red Arrow,Male,Human,180.0,DC Comics,good,83.0,2.0,0.0,-2.1
+Red Hood,Male,Human,183.0,DC Comics,neutral,81.0,2.0,0.0,-2.0
+Red Hulk,Male,Human / Radiation,213.0,Marvel Comics,neutral,630.0,1.0,2.0,0.4
+Red Mist,Male,Human,179.4,Icon Comics,bad,95.9,0.0,0.0,-2.2
+Red Robin,Male,Human,165.0,DC Comics,good,56.0,2.0,0.0,-1.8
+Red Skull,Male,Human,188.0,Marvel Comics,bad,108.0,0.0,0.0,-2.2
+Red Tornado,Male,Android,185.0,DC Comics,good,146.0,1.0,2.0,1.2
+Redeemer II,Male,Angelus,,Image Comics,bad,,2.0,2.0,-0.7
+Redeemer III,Male,Angelus,,Image Comics,bad,,1.0,1.0,-1.2
 Renata Soliz,Female,,,HarperCollins,good,,,,
-Rey,Female,Human,297.0,George Lucas,good,96.3623188405797,1.0,0.0,-0.8960142321234317
-Rhino,Male,Human / Radiation,196.0,Marvel Comics,bad,320.0,1.0,0.0,-1.3454505508570798
-Rick Flag,Male,Human,185.0,DC Comics,bad,85.0,0.0,0.0,-2.554976869546374
-Riddler,Male,,,DC Comics,bad,,0.0,0.0,-2.2427337572971884
-Rip Hunter,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,0.6021922892034863
-Ripcord,Female,,180.0,Marvel Comics,good,72.0,0.0,0.0,-2.446308639573322
-Robin,Male,Human,178.0,DC Comics,good,79.0,1.0,0.0,-2.444578841091929
-Robin II,Male,Human,183.0,DC Comics,good,101.0,1.0,0.0,-2.1079934261486004
-Robin III,Male,Human,165.0,DC Comics,good,56.0,1.0,0.0,-2.177880681215096
-Robin V,Male,Human,137.0,DC Comics,good,38.0,1.0,0.0,-1.8999587044396309
-Robin VI,Female,Human,179.55633802816902,DC Comics,neutral,96.3623188405797,0.0,0.0,-2.150280364854875
-Rocket Raccoon,Male,Animal,122.0,Marvel Comics,good,25.0,1.0,0.0,-1.0619854325747506
-Rogue,Female,Mutant,173.0,Marvel Comics,good,54.0,0.0,1.0,-1.7729423706971708
+Rey,Female,Human,297.0,George Lucas,good,95.9,1.0,0.0,-0.9
+Rhino,Male,Human / Radiation,196.0,Marvel Comics,bad,320.0,1.0,1.0,-1.4
+Rick Flag,Male,Human,185.0,DC Comics,bad,85.0,0.0,0.0,-2.6
+Riddler,Male,Human,179.4,DC Comics,bad,95.9,0.0,0.0,-2.3
+Rip Hunter,Male,Human,179.4,DC Comics,good,95.9,1.0,0.0,0.6
+Ripcord,Female,Human,180.0,Marvel Comics,good,72.0,0.0,0.0,-2.5
+Robin,Male,Human,178.0,DC Comics,good,79.0,2.0,0.0,-2.4
+Robin II,Male,Human,183.0,DC Comics,good,101.0,2.0,0.0,-2.1
+Robin III,Male,Human,165.0,DC Comics,good,56.0,2.0,0.0,-2.1
+Robin V,Male,Human,137.0,DC Comics,good,38.0,1.0,0.0,-1.9
+Robin VI,Female,Human,179.4,DC Comics,neutral,95.9,0.0,0.0,-2.1
+Rocket Raccoon,Male,Animal,122.0,Marvel Comics,good,25.0,3.0,1.0,-1.0
+Rogue,Female,Mutant,173.0,Marvel Comics,good,54.0,0.0,1.0,-1.8
 Ronin,Male,Human,191.0,Marvel Comics,good,104.0,,,
-Rorschach,Male,Human,168.0,DC Comics,good,63.0,1.0,0.0,-1.9337433444726557
-Sabretooth,Male,Mutant,198.0,Marvel Comics,bad,171.0,2.0,0.0,0.40535838652122314
-Sage,Female,,170.0,Marvel Comics,good,61.0,0.0,0.0,-1.4772875487225476
-Sandman,Male,Human,185.0,Marvel Comics,neutral,203.0,1.0,1.0,0.3361579858436805
-Sasquatch,Male,,305.0,Marvel Comics,good,900.0,1.0,0.0,-1.5482862287532098
-Sauron,Male,Maiar,279.0,J. R. R. Tolkien,bad,,3.0,1.0,4.31544300851302
-Savage Dragon,Male,,,Image Comics,good,,1.0,0.0,-1.3285010941948672
-Scarecrow,Male,Human,183.0,DC Comics,bad,63.0,0.0,0.0,-2.3608197864612723
-Scarlet Spider,Male,Human,178.0,Marvel Comics,good,74.0,1.0,0.0,-0.6253007943144883
-Scarlet Spider II,Male,Clone,193.0,Marvel Comics,good,113.0,1.0,0.0,-1.376815925893481
-Scarlet Witch,Female,Mutant,170.0,Marvel Comics,bad,59.0,2.0,1.0,5.515136450926942
-Scorpia,Female,,,Marvel Comics,bad,,2.0,1.0,-1.3260312605200002
-Scorpion,Male,Human,211.0,Marvel Comics,bad,310.0,1.0,0.0,-1.522046744198519
-Sebastian Shaw,Male,Mutant,183.1851851851852,Marvel Comics,bad,91.075,1.0,1.0,-1.0275570127062164
-Sentry,Male,Mutant,188.0,Marvel Comics,neutral,87.0,3.0,2.0,4.974079772056947
-Shadow King,,,185.0,Marvel Comics,good,149.0,0.0,0.0,-0.14285509364168822
-Shadow Lass,Female,Talokite,173.0,DC Comics,good,54.0,0.0,0.0,-0.9681356374939107
-Shadowcat,Female,Mutant,168.0,Marvel Comics,good,50.0,1.0,0.0,0.22123266792577176
-Shang-Chi,Male,Human,178.0,Marvel Comics,good,79.0,0.0,0.0,-1.751188920706797
-Shatterstar,Male,Eternal,191.0,Marvel Comics,good,88.0,2.0,0.0,-1.0954416772383626
-She-Hulk,Female,Human,201.0,Marvel Comics,good,315.0,1.0,1.0,-0.5713382917913952
-She-Thing,Female,Human / Radiation,183.0,Marvel Comics,good,153.0,1.0,0.0,-1.7830127414807602
-Shocker,Male,Human,175.0,Marvel Comics,bad,79.0,2.0,0.0,-2.0973687408211688
-Shriek,Female,Mutant,173.0,Marvel Comics,good,52.0,2.0,0.0,-0.5710739687845479
-Shrinking Violet,Female,Atom,,DC Comics,good,,,,
-Sif,Female,Asgardian,188.0,Marvel Comics,good,191.0,2.0,1.0,0.3555241216002748
-Silk,Female,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,1.0,0.0,-0.9625635417402231
-Silk Spectre,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,0.0,0.0,-2.659334381914399
-Silk Spectre II,Female,,,DC Comics,good,,0.0,0.0,-2.659334381914399
-Silver Surfer,Male,Alien,193.0,Marvel Comics,good,101.0,2.0,3.0,6.602167996114631
-Silverclaw,Female,,157.0,Marvel Comics,good,50.0,1.0,0.0,-1.1448680624022611
-Simon Baz,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,2.0,1.0,1.6256533322864677
-Sinestro,Male,Korugaran,201.0,DC Comics,neutral,92.0,2.0,1.0,0.23522821423482781
-Siren,Female,Atlantean,175.0,DC Comics,bad,72.0,1.0,0.0,0.5768557611314685
-Siren II,Female,,,DC Comics,bad,,1.0,0.0,-1.597447548797944
-Siryn,Female,Mutant,168.0,Marvel Comics,bad,52.0,0.0,0.0,-2.0086842408667835
-Skaar,Male,,198.0,Marvel Comics,good,180.0,1.0,0.0,-1.5870088367354815
-Snake-Eyes,Male,Animal,76.25,Marvel Comics,bad,25.0,,,
-Snowbird,Female,Inuit,178.0,Marvel Comics,good,49.0,1.0,0.0,-0.44215796051533307
-Sobek,Male,,,DC Comics,good,,1.0,0.0,-2.1377134766706396
-Solomon Grundy,Male,Zombie,279.0,DC Comics,bad,437.0,1.0,2.0,0.23627591714765536
-Songbird,Female,Human,165.0,Marvel Comics,good,65.0,1.0,0.0,-1.2817535416994028
-Space Ghost,Male,Human,188.0,DC Comics,good,113.0,3.0,2.0,2.1319399469052964
-Spawn,Male,Demon,211.0,Image Comics,good,405.0,2.0,2.0,1.979904649657216
-Spectre,Male,God / Eternal,155.0,DC Comics,good,209.5,2.0,4.0,22.250866455425566
-Speedball,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,1.0,2.0,-1.0508259596067906
-Speedy,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.187057948195385
-Speedy,Male,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.187057948195385
-Speedy,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.187057948195385
-Speedy,Female,Human,179.55633802816902,DC Comics,good,96.3623188405797,1.0,0.0,-2.187057948195385
-Spider-Carnage,Male,Symbiote,198.77777777777777,Marvel Comics,bad,154.5,,,
-Spider-Girl,Female,Human,170.0,Marvel Comics,good,54.0,1.0,0.0,-0.4968617051506073
-Spider-Gwen,Female,Human,165.0,Marvel Comics,good,56.0,1.0,0.0,-0.9330115509852143
-Spider-Man,Male,Human,178.0,Marvel Comics,good,74.0,1.0,0.0,-0.34916434782815603
-Spider-Man,Male,Human,178.0,Marvel Comics,good,74.0,1.0,0.0,-0.34916434782815603
-Spider-Man,Male,Human,178.0,Marvel Comics,good,74.0,1.0,0.0,-0.34916434782815603
-Spider-Man,,Human,178.0,Marvel Comics,good,77.0,1.0,0.0,-0.34916434782815603
-Spider-Man,,Human,178.0,Marvel Comics,good,77.0,1.0,0.0,-0.34916434782815603
-Spider-Man,,Human,178.0,Marvel Comics,good,77.0,1.0,0.0,-0.34916434782815603
-Spider-Man,Male,Human,157.0,Marvel Comics,good,56.0,1.0,0.0,-0.34916434782815603
-Spider-Man,Male,Human,157.0,Marvel Comics,good,56.0,1.0,0.0,-0.34916434782815603
-Spider-Man,Male,Human,157.0,Marvel Comics,good,56.0,1.0,0.0,-0.34916434782815603
-Spider-Woman,Female,Human,178.0,Marvel Comics,good,59.0,2.0,0.0,-0.5570930987376971
-Spider-Woman II,Female,,,Marvel Comics,good,,,,
-Spider-Woman III,Female,Human,173.0,Marvel Comics,good,55.0,2.0,0.0,-0.6944720918257732
-Spider-Woman IV,Female,Human,178.0,Marvel Comics,bad,58.0,2.0,0.0,0.8746902710877646
-Spock,Male,Human-Vulcan,185.0,Star Trek,good,81.0,1.0,0.0,0.02819509791118139
-Spyke,Male,Mutant,183.0,Marvel Comics,good,83.0,0.0,0.0,-1.7427145697210296
-Stacy X,Female,Mutant,183.1851851851852,Marvel Comics,good,91.075,,,
-Star-Lord,Male,Human-Spartoi,188.0,Marvel Comics,good,79.0,1.0,0.0,-1.6371237499329878
-Stardust,Male,Empirikul,,Marvel Comics,good,,2.0,3.0,1.8170487641858464
-Starfire,Female,Tamaranean,193.0,DC Comics,good,71.0,2.0,2.0,-0.03540279958155106
-Stargirl,Female,Human,165.0,DC Comics,good,62.0,2.0,3.0,2.8490270873535093
-Static,Male,Mutant,170.0,DC Comics,good,63.0,1.0,2.0,1.4993529487410073
-Steel,Male,Metahuman,201.0,DC Comics,good,131.0,1.0,0.0,-1.477691354853619
-Stephanie Powell,Female,,,ABC Studios,good,,0.0,0.0,-1.9224208518910373
-Steppenwolf,Male,New God,183.0,DC Comics,bad,91.0,2.0,1.0,0.5906783405547646
-Storm,Female,Mutant,180.0,Marvel Comics,good,57.0,0.0,0.0,-0.39444211560793785
-Stormtrooper,Male,Human,183.0,George Lucas,bad,96.3623188405797,0.0,0.0,-2.420764474467934
-Sunspot,Male,Mutant,173.0,Marvel Comics,good,77.0,2.0,0.0,0.8677496236715823
-Superboy,Male,,170.0,DC Comics,good,68.0,2.0,3.0,2.753036950626404
-Superboy-Prime,Male,Kryptonian,180.0,DC Comics,bad,77.0,1.0,2.0,4.99885944983568
-Supergirl,Female,Kryptonian,165.0,DC Comics,good,54.0,1.0,2.0,5.645928837281585
-Superman,Male,Kryptonian,191.0,DC Comics,good,101.0,1.0,2.0,5.977365156478466
-Swamp Thing,Male,God / Eternal,155.0,DC Comics,bad,209.5,1.0,0.0,1.9172680787193441
-Swarm,Male,Mutant,196.0,Marvel Comics,bad,47.0,1.0,0.0,0.12971026594214985
-Sylar,Male,Human,179.55633802816902,NBC - Heroes,bad,96.3623188405797,1.0,0.0,0.06805039143014165
-Synch,Male,Mutant,180.0,Marvel Comics,good,74.0,0.0,0.0,-2.2186674769141823
-T-1000,Male,Android,183.0,Dark Horse Comics,bad,146.0,2.0,1.0,4.373571344296511
-T-800,Male,Cyborg,220.5,Dark Horse Comics,bad,176.0,2.0,1.0,1.2965650717851778
-T-850,Male,Cyborg,220.5,Dark Horse Comics,bad,198.0,2.0,1.0,1.598891661328592
-T-X,Female,Cyborg,220.5,Dark Horse Comics,bad,149.0,3.0,1.0,4.9192643357674
-Taskmaster,Male,Human,188.0,Marvel Comics,bad,99.0,1.0,0.0,-2.074110705161446
-Tempest,Female,Mutant,163.0,Marvel Comics,good,54.0,0.0,1.0,-1.074407969964782
-Thanos,Male,Eternal,201.0,Marvel Comics,bad,443.0,2.0,3.0,9.668771925300721
-The Cape,Male,Human,179.55633802816902,,good,96.3623188405797,0.0,0.0,-2.554976869546374
-The Comedian,Male,Human,188.0,DC Comics,neutral,101.0,1.0,0.0,-2.510908451280351
-Thing,Male,Human / Radiation,183.0,Marvel Comics,good,225.0,1.0,1.0,-0.6352467164854337
-Thor,Male,Asgardian,198.0,Marvel Comics,good,288.0,1.0,2.0,3.1689746700025543
-Thor Girl,Female,Asgardian,175.0,Marvel Comics,good,143.0,1.0,1.0,-0.5319999306929419
-Thunderbird,Male,Mutant,185.0,Marvel Comics,good,101.0,1.0,0.0,-1.7532960927494605
-Thunderbird II,Male,Mutant,183.1851851851852,Marvel Comics,good,91.075,,,
-Thunderbird III,Male,Mutant,175.0,Marvel Comics,good,74.0,1.0,1.0,-1.4463939679374178
-Thunderstrike,Male,,198.0,Marvel Comics,good,288.0,1.0,0.0,-0.9364167215069874
-Thundra,Female,Femizons,218.0,Marvel Comics,good,158.0,1.0,0.0,-1.6579019903190708
-Tiger Shark,Male,Human,185.0,Marvel Comics,bad,203.0,1.0,0.0,-0.33892329724867215
-Tigra,Female,Tigra,178.0,Marvel Comics,good,81.0,1.0,0.0,-1.4221564507862234
-Tinkerer,Male,Human,163.0,Marvel Comics,bad,54.0,0.0,0.0,-2.2427337572971884
-Titan,Male,Eternals,,HarperCollins,good,,1.0,0.0,-1.7143286946888248
-Toad,Male,Mutant,175.0,Marvel Comics,neutral,76.0,1.0,0.0,-0.42142657204111067
-Toxin,Male,Symbiote,188.0,Marvel Comics,good,97.0,1.0,0.0,-0.21420322422542643
-Toxin,Male,Symbiote,188.0,Marvel Comics,good,97.0,1.0,0.0,-0.21420322422542643
-Toxin,Male,Symbiote,191.0,Marvel Comics,good,117.0,1.0,0.0,-0.21420322422542643
-Toxin,Male,Symbiote,191.0,Marvel Comics,good,117.0,1.0,0.0,-0.21420322422542643
-Tracy Strauss,Female,Human,179.55633802816902,NBC - Heroes,good,96.3623188405797,0.0,0.0,-2.1278384424264285
-Trickster,Male,Human,183.0,DC Comics,,81.0,0.0,0.0,-2.187834610465049
-Trigon,Male,God / Eternal,155.0,DC Comics,bad,209.5,2.0,1.0,2.1893060887853477
-Triplicate Girl,Female,,168.0,DC Comics,good,59.0,0.0,0.0,-1.5311248614021604
-Triton,Male,Inhuman,188.0,Marvel Comics,good,86.0,1.0,0.0,-1.159680277061589
+Rorschach,Male,Human,168.0,DC Comics,good,63.0,1.0,0.0,-1.9
+Sabretooth,Male,Mutant,198.0,Marvel Comics,bad,171.0,4.0,1.0,0.5
+Sage,Female,Mutant,170.0,Marvel Comics,good,61.0,1.0,0.0,-1.5
+Sandman,Male,Human,185.0,Marvel Comics,neutral,203.0,1.0,2.0,0.3
+Sasquatch,Male,Wendigo,305.0,Marvel Comics,good,900.0,1.0,2.0,-1.5
+Sauron,Male,Maiar,279.0,J. R. R. Tolkien,bad,,5.0,2.0,4.3
+Savage Dragon,Male,Krylan,,Image Comics,good,,1.0,2.0,-1.4
+Scarecrow,Male,Human,183.0,DC Comics,bad,63.0,0.0,0.0,-2.4
+Scarlet Spider,Male,Human,178.0,Marvel Comics,good,74.0,2.0,2.0,-0.5
+Scarlet Spider II,Male,Clone,193.0,Marvel Comics,good,113.0,2.0,1.0,-1.3
+Scarlet Witch,Female,Mutant,170.0,Marvel Comics,bad,59.0,3.0,1.0,5.5
+Scorpia,Female,,,Marvel Comics,bad,,2.0,1.0,-1.3
+Scorpion,Male,Human,211.0,Marvel Comics,bad,310.0,1.0,1.0,-1.5
+Sebastian Shaw,Male,Mutant,182.0,Marvel Comics,bad,88.6,1.0,2.0,-1.1
+Sentry,Male,Mutant,188.0,Marvel Comics,neutral,87.0,3.0,4.0,5.0
+Shadow King,,Mutant,185.0,Marvel Comics,good,149.0,0.0,1.0,-0.2
+Shadow Lass,Female,Talokite,173.0,DC Comics,good,54.0,0.0,0.0,-1.0
+Shadowcat,Female,Mutant,168.0,Marvel Comics,good,50.0,1.0,2.0,0.2
+Shang-Chi,Male,Human,178.0,Marvel Comics,good,79.0,0.0,1.0,-1.7
+Shatterstar,Male,Mojoworlder,191.0,Marvel Comics,good,88.0,2.0,1.0,-1.1
+She-Hulk,Female,Human,201.0,Marvel Comics,good,315.0,1.0,2.0,-0.6
+She-Thing,Female,Human / Radiation,183.0,Marvel Comics,good,153.0,1.0,1.0,-1.8
+Shocker,Male,Human,175.0,Marvel Comics,bad,79.0,3.0,0.0,-2.1
+Shriek,Female,Human,173.0,Marvel Comics,good,52.0,2.0,0.0,-0.6
+Shrinking Violet,Female,Imskian,,DC Comics,good,,,,
+Sif,Female,Asgardian,188.0,Marvel Comics,good,191.0,2.0,3.0,0.4
+Silk,Female,Human,179.4,Marvel Comics,good,95.9,3.0,1.0,-0.9
+Silk Spectre,Female,Human,179.4,DC Comics,good,95.9,0.0,0.0,-2.7
+Silk Spectre II,Female,Human,179.4,DC Comics,good,95.9,0.0,0.0,-2.7
+Silver Surfer,Male,Alien,193.0,Marvel Comics,good,101.0,3.0,6.0,6.5
+Silverclaw,Female,Human,157.0,Marvel Comics,good,50.0,2.0,1.0,-1.2
+Simon Baz,Male,Human,179.4,DC Comics,good,95.9,3.0,1.0,1.6
+Sinestro,Male,Korugaran,201.0,DC Comics,neutral,92.0,3.0,2.0,0.2
+Siren,Female,Atlantean,175.0,DC Comics,bad,72.0,1.0,1.0,0.6
+Siren II,Female,Atlantean,178.4,DC Comics,bad,101.0,1.0,0.0,-1.6
+Siryn,Female,Mutant,168.0,Marvel Comics,bad,52.0,0.0,0.0,-2.0
+Skaar,Male,,198.0,Marvel Comics,good,180.0,1.0,0.0,-1.6
+Snake-Eyes,Male,Animal,76.2,Marvel Comics,bad,25.0,,,
+Snowbird,Female,Inua,178.0,Marvel Comics,good,49.0,2.0,1.0,-0.4
+Sobek,Male,Crocodile,,DC Comics,good,,1.0,1.0,-2.2
+Solomon Grundy,Male,Zombie,279.0,DC Comics,bad,437.0,1.0,3.0,0.2
+Songbird,Female,Human,165.0,Marvel Comics,good,65.0,1.0,1.0,-1.3
+Space Ghost,Male,Human,188.0,DC Comics,good,113.0,3.0,3.0,2.1
+Spawn,Male,Demon,211.0,Image Comics,good,405.0,3.0,4.0,2.0
+Spectre,Male,God / Eternal,155.0,DC Comics,good,209.5,5.0,6.0,22.2
+Speedball,Male,Human,179.4,Marvel Comics,good,95.9,1.0,2.0,-1.1
+Speedy,Male,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.2
+Speedy,Male,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.2
+Speedy,Female,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.2
+Speedy,Female,Human,179.4,DC Comics,good,95.9,2.0,0.0,-2.2
+Spider-Carnage,Male,Symbiote,200.1,Marvel Comics,bad,162.7,,,
+Spider-Girl,Female,Human,170.0,Marvel Comics,good,54.0,1.0,0.0,-0.4
+Spider-Gwen,Female,Human,165.0,Marvel Comics,good,56.0,3.0,1.0,-0.8
+Spider-Man,Male,Human,178.0,Marvel Comics,good,74.0,3.0,2.0,-0.2
+Spider-Man,Male,Human,178.0,Marvel Comics,good,74.0,3.0,2.0,-0.2
+Spider-Man,Male,Human,157.0,Marvel Comics,good,56.0,3.0,2.0,-0.2
+Spider-Man,Male,Human,157.0,Marvel Comics,good,56.0,3.0,2.0,-0.2
+Spider-Woman,Female,Human,178.0,Marvel Comics,good,59.0,2.0,1.0,-0.5
+Spider-Woman II,Female,Human,179.4,Marvel Comics,good,95.9,,,
+Spider-Woman III,Female,Human,173.0,Marvel Comics,good,55.0,2.0,0.0,-0.7
+Spider-Woman IV,Female,Human,178.0,Marvel Comics,bad,58.0,2.0,0.0,0.8
+Spock,Male,Human-Vulcan,185.0,Star Trek,good,81.0,1.0,0.0,0.0
+Spyke,Male,Mutant,183.0,Marvel Comics,good,83.0,0.0,0.0,-1.8
+Stacy X,Female,Mutant,182.0,Marvel Comics,good,88.6,,,
+Star-Lord,Male,Human-Spartoi,188.0,Marvel Comics,good,79.0,2.0,1.0,-1.6
+Stardust,Male,Eternal,189.0,Marvel Comics,good,344.3,2.0,4.0,1.8
+Starfire,Female,Tamaranean,193.0,DC Comics,good,71.0,2.0,3.0,-0.1
+Stargirl,Female,Human,165.0,DC Comics,good,62.0,2.0,4.0,2.8
+Static,Male,Mutant,170.0,DC Comics,good,63.0,2.0,4.0,1.5
+Steel,Male,Human,201.0,DC Comics,good,131.0,1.0,1.0,-1.5
+Stephanie Powell,Female,Human,179.4,ABC Studios,good,95.9,0.0,0.0,-1.9
+Steppenwolf,Male,New God,183.0,DC Comics,bad,91.0,2.0,3.0,0.7
+Storm,Female,Mutant,180.0,Marvel Comics,good,57.0,0.0,1.0,-0.4
+Stormtrooper,Male,Human,183.0,George Lucas,bad,95.9,0.0,1.0,-2.4
+Sunspot,Male,Mutant,173.0,Marvel Comics,good,77.0,3.0,0.0,0.8
+Superboy,Male,Kryptonian,170.0,DC Comics,good,68.0,2.0,4.0,2.7
+Superboy-Prime,Male,Kryptonian,180.0,DC Comics,bad,77.0,1.0,4.0,5.0
+Supergirl,Female,Kryptonian,165.0,DC Comics,good,54.0,1.0,4.0,5.7
+Superman,Male,Kryptonian,191.0,DC Comics,good,101.0,2.0,4.0,6.0
+Swamp Thing,Male,God / Eternal,155.0,DC Comics,bad,209.5,1.0,2.0,2.0
+Swarm,Male,Mutant,196.0,Marvel Comics,bad,47.0,2.0,1.0,0.2
+Sylar,Male,Human,179.4,NBC - Heroes,bad,95.9,2.0,0.0,0.1
+Synch,Male,Mutant,180.0,Marvel Comics,good,74.0,0.0,0.0,-2.2
+T-1000,Male,Android,183.0,Dark Horse Comics,bad,146.0,3.0,5.0,4.4
+T-800,Male,Cyborg,220.5,Dark Horse Comics,bad,176.0,2.0,2.0,1.3
+T-850,Male,Cyborg,220.5,Dark Horse Comics,bad,198.0,2.0,2.0,1.6
+T-X,Female,Cyborg,220.5,Dark Horse Comics,bad,149.0,4.0,5.0,5.0
+Taskmaster,Male,Human,188.0,Marvel Comics,bad,99.0,2.0,0.0,-2.0
+Tempest,Female,Mutant,163.0,Marvel Comics,good,54.0,2.0,1.0,-1.1
+Thanos,Male,Eternal,201.0,Marvel Comics,bad,443.0,3.0,6.0,9.7
+The Cape,Male,,,,good,,0.0,0.0,-2.6
+The Comedian,Male,Human,188.0,DC Comics,neutral,101.0,1.0,0.0,-2.5
+Thing,Male,Human / Radiation,183.0,Marvel Comics,good,225.0,1.0,2.0,-0.7
+Thor,Male,Asgardian,198.0,Marvel Comics,good,288.0,2.0,4.0,3.2
+Thor Girl,Female,Asgardian,175.0,Marvel Comics,good,143.0,1.0,3.0,-0.5
+Thunderbird,Male,Mutant,185.0,Marvel Comics,good,101.0,1.0,1.0,-1.8
+Thunderbird II,Male,Mutant,182.0,Marvel Comics,good,88.6,,,
+Thunderbird III,Male,Mutant,175.0,Marvel Comics,good,74.0,1.0,1.0,-1.5
+Thunderstrike,Male,Human,198.0,Marvel Comics,good,288.0,1.0,1.0,-0.9
+Thundra,Female,Femizonian,218.0,Marvel Comics,good,158.0,1.0,0.0,-1.6
+Tiger Shark,Male,Human,185.0,Marvel Comics,bad,203.0,2.0,1.0,-0.3
+Tigra,Female,Mutant,178.0,Marvel Comics,good,81.0,1.0,1.0,-1.4
+Tinkerer,Male,Human,163.0,Marvel Comics,bad,54.0,0.0,0.0,-2.3
+Titan,Male,,,HarperCollins,good,,1.0,0.0,-1.7
+Toad,Male,Mutant,175.0,Marvel Comics,neutral,76.0,2.0,1.0,-0.4
+Toxin,Male,Symbiote,191.0,Marvel Comics,good,117.0,1.0,2.0,-0.1
+Tracy Strauss,Female,Human,179.4,NBC - Heroes,good,95.9,1.0,0.0,-2.1
+Trickster,Male,Human,183.0,DC Comics,,81.0,0.0,0.0,-2.2
+Trigon,Male,God / Eternal,155.0,DC Comics,bad,209.5,3.0,3.0,2.1
+Triplicate Girl,Female,Carggite,168.0,DC Comics,good,59.0,0.0,0.0,-1.5
+Triton,Male,Inhuman,188.0,Marvel Comics,good,86.0,1.0,1.0,-1.1
 Two-Face,Male,Human,183.0,DC Comics,bad,82.0,,,
-Ultragirl,Female,Human,168.0,Marvel Comics,good,105.0,1.0,1.0,-0.7144172267689
-Ultron,Male,Android,206.0,Marvel Comics,bad,331.0,2.0,2.0,4.977407070888677
-Utgard-Loki,Male,Frost Giant,15.2,Marvel Comics,bad,58.0,1.0,1.0,-0.7384891986767733
+Ultragirl,Female,Kree,168.0,Marvel Comics,good,105.0,1.0,3.0,-0.7
+Ultron,Male,Android,206.0,Marvel Comics,bad,331.0,2.0,5.0,5.0
+Utgard-Loki,Male,Frost Giant,15.2,Marvel Comics,bad,58.0,2.0,2.0,-0.7
 Vagabond,Female,Human,168.0,Marvel Comics,good,54.0,,,
-Valerie Hart,Female,,175.0,Team Epic TV,good,56.0,1.0,0.0,-2.3625099393397093
-Valkyrie,Female,Asgardian,191.0,Marvel Comics,good,214.0,1.0,0.0,-1.8240302044562713
-Vanisher,Male,Mutant,165.0,Marvel Comics,bad,79.0,0.0,1.0,-1.9628435267423352
-Vegeta,Male,Saiyan,168.0,Shueisha,bad,73.0,2.0,2.0,4.999914162891023
-Venom,Male,Symbiote,191.0,Marvel Comics,bad,117.0,1.0,0.0,-0.9673573473006306
-Venom II,Male,Symbiote,175.0,Marvel Comics,bad,50.0,1.0,0.0,-1.3237717743449058
-Venom III,Male,Symbiote,229.0,Marvel Comics,bad,334.0,1.0,0.0,-0.9264423173799594
-Venompool,Male,Symbiote,226.0,Marvel Comics,,154.5,2.0,1.0,2.1262020830051456
-Vertigo II,Female,,168.0,Marvel Comics,good,52.0,0.0,0.0,-2.2122284069036713
-Vibe,Male,Human,178.0,DC Comics,good,71.0,1.0,1.0,-0.017650636967437853
-Vindicator,Female,Human,165.0,Marvel Comics,good,54.0,0.0,1.0,0.8068881879347648
-Vindicator,Female,Human,165.0,Marvel Comics,good,54.0,0.0,1.0,0.8068881879347648
-Vindicator,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,0.0,1.0,0.8068881879347648
-Vindicator,Male,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,0.0,1.0,0.8068881879347648
-Violator,Male,Demons,,Image Comics,bad,,1.0,0.0,-1.6592397671273418
-Violet Parr,Female,Human,137.0,Dark Horse Comics,good,41.0,0.0,1.0,0.13919007015315635
-Vision,Male,Android,191.0,Marvel Comics,good,135.0,2.0,2.0,3.140860921228512
-Vision II,,Android,191.0,Marvel Comics,good,135.0,,,
-Vixen,Female,Human,175.0,DC Comics,good,63.0,1.0,1.0,0.5769541530363125
-Vulcan,Male,,,Marvel Comics,good,,,,
-Vulture,Male,Human,180.0,Marvel Comics,bad,79.0,1.0,0.0,-0.20786056469569952
-Walrus,Male,Human,183.0,Marvel Comics,bad,162.0,1.0,0.0,-2.1342870686099515
-War Machine,Male,Human,185.0,Marvel Comics,good,95.0,2.0,1.0,2.7960643697649044
-Warbird,Female,,180.0,Marvel Comics,good,54.0,,,
-Warlock,Male,Mutant,188.0,Marvel Comics,good,108.0,2.0,0.0,-0.3910712161905644
-Warp,Male,,173.0,DC Comics,bad,67.0,0.0,1.0,-1.6655885227275067
-Warpath,Male,Mutant,218.0,Marvel Comics,good,158.0,1.0,0.0,-0.31006121898121547
-Wasp,Female,Human,163.0,Marvel Comics,good,50.0,2.0,0.0,-0.9262920206939889
-Watcher,Male,,,Marvel Comics,good,,0.0,3.0,5.801983555169609
-Weapon XI,Male,Human,179.55633802816902,Marvel Comics,bad,96.3623188405797,2.0,1.0,-0.7772952396457544
-White Canary,Female,Human,179.55633802816902,DC Comics,bad,96.3623188405797,1.0,0.0,-2.1008282139243226
-White Queen,Female,Human,178.0,Marvel Comics,good,65.0,,,
-Wildfire,Male,,,DC Comics,good,,2.0,2.0,0.6887051390076906
-Winter Soldier,Male,Human,175.0,Marvel Comics,good,117.0,2.0,0.0,-1.7278526162507781
-Wiz Kid,,Human,140.0,Marvel Comics,good,39.0,,,
-Wolfsbane,Female,Mutant,366.0,Marvel Comics,good,473.0,1.0,0.0,-1.1395009594324708
-Wolverine,Male,Mutant,160.0,Marvel Comics,good,135.0,1.0,0.0,1.3208693893710133
-Wonder Girl,Female,Demi-God,165.0,DC Comics,good,51.0,1.0,1.0,-0.22588197481541147
-Wonder Man,Male,Human,188.0,Marvel Comics,good,171.0,2.0,1.0,0.4542779735854998
-Wonder Woman,Female,Amazon,183.0,DC Comics,good,74.0,2.0,1.0,5.682636426017108
-Wondra,Female,Human,179.55633802816902,Marvel Comics,good,96.3623188405797,,,
-Wyatt Wingfoot,Male,Human,196.0,Marvel Comics,good,117.0,,,
-X-23,Female,Mutant / Clone,155.0,Marvel Comics,good,50.0,1.0,0.0,0.692683839437322
-X-Man,Male,,175.0,Marvel Comics,good,61.0,1.0,1.0,2.809445099112878
-Yellow Claw,Male,,188.0,Marvel Comics,bad,95.0,,,
-Yellowjacket,Male,Human,183.0,Marvel Comics,good,83.0,0.0,0.0,-2.1451809353706923
-Yellowjacket II,Female,Human,165.0,Marvel Comics,good,52.0,1.0,0.0,-1.4995345358021728
-Ymir,Male,Frost Giant,304.8,Marvel Comics,good,58.0,1.0,0.0,-0.9631050482137544
-Yoda,Male,Yoda's species,66.0,George Lucas,good,17.0,3.0,1.0,2.3784041995128806
-Zatanna,Female,Human,170.0,DC Comics,good,57.0,0.0,0.0,0.9835004076787079
-Zoom,Male,Human,185.0,DC Comics,bad,81.0,0.0,0.0,0.06340926627446894
+Valerie Hart,Female,Human,175.0,Team Epic TV,good,56.0,1.0,0.0,-2.4
+Valkyrie,Female,Asgardian,191.0,Marvel Comics,good,214.0,1.0,1.0,-1.8
+Vanisher,Male,Mutant,165.0,Marvel Comics,bad,79.0,0.0,1.0,-2.0
+Vegeta,Male,Saiyan,168.0,Shueisha,bad,73.0,4.0,3.0,5.0
+Venom,Male,Symbiote,191.0,Marvel Comics,bad,117.0,1.0,1.0,-0.9
+Venom II,Male,Symbiote,175.0,Marvel Comics,bad,50.0,2.0,2.0,-1.3
+Venom III,Male,Symbiote,229.0,Marvel Comics,bad,334.0,2.0,2.0,-0.9
+Venompool,Male,Symbiote,226.0,Marvel Comics,,162.7,3.0,4.0,2.2
+Vertigo II,Female,,168.0,Marvel Comics,good,52.0,0.0,0.0,-2.2
+Vibe,Male,Human,178.0,DC Comics,good,71.0,1.0,1.0,-0.1
+Vindicator,Female,Human,165.0,Marvel Comics,good,54.0,0.0,2.0,0.7
+Vindicator,Female,Human,165.0,Marvel Comics,good,54.0,0.0,2.0,0.7
+Vindicator,Male,Human,179.4,Marvel Comics,good,95.9,0.0,2.0,0.7
+Vindicator,Male,Human,179.4,Marvel Comics,good,95.9,0.0,2.0,0.7
+Violator,Male,Demon,200.7,Image Comics,bad,154.3,1.0,1.0,-1.7
+Violet Parr,Female,Human,137.0,Dark Horse Comics,good,41.0,0.0,1.0,0.1
+Vision,Male,Android,191.0,Marvel Comics,good,135.0,3.0,4.0,3.1
+Vision II,,Synthezoid,191.0,Marvel Comics,good,135.0,,,
+Vixen,Female,Human,175.0,DC Comics,good,63.0,2.0,1.0,0.6
+Vulcan,Male,Mutant,182.0,Marvel Comics,good,88.6,,,
+Vulture,Male,Human,180.0,Marvel Comics,bad,79.0,3.0,0.0,-0.2
+Walrus,Male,Human,183.0,Marvel Comics,bad,162.0,1.0,1.0,-2.1
+War Machine,Male,Human,185.0,Marvel Comics,good,95.0,3.0,3.0,2.8
+Warbird,Female,Kree,180.0,Marvel Comics,good,54.0,,,
+Warlock,Male,Technarchy,188.0,Marvel Comics,good,108.0,2.0,1.0,-0.4
+Warp,Male,,173.0,DC Comics,bad,67.0,0.0,1.0,-1.7
+Warpath,Male,Mutant,218.0,Marvel Comics,good,158.0,1.0,1.0,-0.3
+Wasp,Female,Human,163.0,Marvel Comics,good,50.0,3.0,0.0,-0.9
+Watcher,Male,Watcher,,Marvel Comics,good,,0.0,5.0,5.7
+Weapon XI,Male,Mutant,182.0,Marvel Comics,bad,88.6,2.0,1.0,-0.8
+White Canary,Female,Human,179.4,DC Comics,bad,95.9,1.0,0.0,-2.1
+White Queen,Female,Mutant,178.0,Marvel Comics,good,65.0,,,
+Wildfire,Male,Energy,,DC Comics,good,,2.0,2.0,0.6
+Winter Soldier,Male,Human,175.0,Marvel Comics,good,117.0,3.0,0.0,-1.7
+Wiz Kid,Male,Mutant,140.0,Marvel Comics,good,39.0,,,
+Wolfsbane,Female,Mutant,366.0,Marvel Comics,good,473.0,1.0,1.0,-1.1
+Wolverine,Male,Mutant,160.0,Marvel Comics,good,135.0,2.0,3.0,1.4
+Wonder Girl,Female,Demi-God,165.0,DC Comics,good,51.0,1.0,2.0,-0.2
+Wonder Man,Male,Human,188.0,Marvel Comics,good,171.0,2.0,2.0,0.4
+Wonder Woman,Female,Amazon,183.0,DC Comics,good,74.0,4.0,3.0,5.7
+Wondra,Female,Human,179.4,Marvel Comics,good,95.9,,,
+Wyatt Wingfoot,Male,Keewazi,196.0,Marvel Comics,good,117.0,,,
+X-23,Female,Mutant / Clone,155.0,Marvel Comics,good,50.0,2.0,1.0,0.8
+X-Man,Male,Mutant,175.0,Marvel Comics,good,61.0,1.0,2.0,2.7
+Yellow Claw,Male,Human,188.0,Marvel Comics,bad,95.0,,,
+Yellowjacket,Male,Human,183.0,Marvel Comics,good,83.0,1.0,0.0,-2.2
+Yellowjacket II,Female,Human,165.0,Marvel Comics,good,52.0,1.0,0.0,-1.5
+Ymir,Male,Frost Giant,304.8,Marvel Comics,good,58.0,2.0,2.0,-1.0
+Yoda,Male,Yoda's species,66.0,George Lucas,good,17.0,4.0,1.0,2.5
+Zatanna,Female,Human,170.0,DC Comics,good,57.0,3.0,0.0,1.0
+Zoom,Male,Human,185.0,DC Comics,bad,81.0,0.0,0.0,0.0
