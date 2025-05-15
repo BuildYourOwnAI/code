@@ -1,2 +1,2 @@
 # code
-Code examples used in the Open Source AI book, by DeJesus &amp; Cuomo
+Code examples used in the Open Source AI book, by Cuomo &amp; DeJesus
