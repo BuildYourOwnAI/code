@@ -1,4 +1,4 @@
-,name,Gender,Eye color,Race,Hair color,Height,Publisher,Skin color,Alignment,Weight
+,name,Gender,Eye color,Species,Hair color,Height,Publisher,Skin color,Alignment,Weight
 0,A-Bomb,Male,yellow,Human,No Hair,203,Marvel Comics,-,good,441
 1,Abe Sapien,Male,blue,Icthyo Sapien,No Hair,191,Dark Horse Comics,blue,good,65
 2,Abin Sur,Male,blue,Ungaran,No Hair,185,DC Comics,red,good,90
@@ -723,4 +723,5 @@
 730,Ymir,Male,white,Frost Giant,No Hair,304.8,Marvel Comics,white,good,-99
 731,Yoda,Male,brown,Yoda's species,White,66,George Lucas,green,good,17
 732,Zatanna,Female,blue,Human,Black,170,DC Comics,-,good,57
+
 733,Zoom,Male,red,-,Brown,185,DC Comics,-,bad,81
