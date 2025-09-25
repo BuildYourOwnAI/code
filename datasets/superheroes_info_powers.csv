@@ -1,4 +1,4 @@
-name,Gender,Race,Height,Publisher,Alignment,Weight,OPR,SDR
+name,Gender,Species,Height,Publisher,Alignment,Weight,OPR,SDR
 A-Bomb,Male,Human,203.0,Marvel Comics,good,441.0,1.0,2.0
 Abe Sapien,Male,Icthyo Sapien,191.0,Dark Horse Comics,good,65.0,3.0,2.0
 Abin Sur,Male,Ungaran,185.0,DC Comics,good,90.0,0.0,0.0
