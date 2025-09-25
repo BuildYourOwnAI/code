@@ -1,4 +1,4 @@
-name,Gender,Race,Height,Publisher,Alignment,Weight
+name,Gender,Species,Height,Publisher,Alignment,Weight
 A-Bomb,Male,Human,203,Marvel Comics,good,441
 Abe Sapien,Male,Icthyo Sapien,191,Dark Horse Comics,good,65
 Abin Sur,Male,Ungaran,185,DC Comics,good,90
@@ -722,4 +722,5 @@ Yellowjacket II,Female,Human,165,Marvel Comics,good,52
 Ymir,Male,Frost Giant,304.8,Marvel Comics,good,58
 Yoda,Male,Yoda's species,66,George Lucas,good,17
 Zatanna,Female,Human,170,DC Comics,good,57
+
 Zoom,Male,Human,185,DC Comics,bad,81
