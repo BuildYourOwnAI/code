@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head><meta charset='UTF-8'><title>Build Your Own AI - Reference Architecture</title><style>
+body { font-family: Arial, sans-serif; background: #fdfdfd; margin: 0; padding: .05em; }
+.layer-wrapper { display: flex; align-items: flex-start; gap: .5em; margin-bottom: .5em; }
+.layer-label { width: 140px; font-weight: bold; font-size: 1.1em; text-align: center; padding-top: 1em; }
+.layer-box { flex: 1; border-radius: 8px; padding: .75em; border: 2px solid #333; }
+.category-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 2em; }
+.category { background: white; border-radius: 12px; padding: .25em; width: 240px; box-shadow: 0 3px 8px rgba(0,0,0,0.15); display: flex; flex-direction: column; align-items: center; }
+.category-title { font-weight: bold; font-size: 1em; margin-bottom: 0.5em; text-align: center; }
+.project-link { display: block; margin: 0.25em 0; text-align: center; font-size: .8em; text-decoration: none; color: #0056b3; }
+.project-link:hover { text-decoration: underline; }
+</style></head><body>
+<div class="layer-wrapper">
+<div class="layer-label">Tools & Ecosystem</div>
+<div class="layer-box" style="background-color: #546E7A">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Developer Environments</div>
+<a class="project-link" href="https://colab.research.google.com" target="_blank">Google Colab</a>
+<a class="project-link" href="https://www.python.org" target="_blank">Python</a>
+</div>
+<div class="category">
+<div class="category-title">Model Hubs / Repos</div>
+<a class="project-link" href="https://huggingface.co" target="_blank">Hugging Face</a>
+<a class="project-link" href="https://github.com" target="_blank">GitHub</a>
+</div>
+</div></div></div>
+<div class="layer-wrapper">
+<div class="layer-label">Data Layer</div>
+<div class="layer-box" style="background-color: #FFEB3B">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Data Basics</div>
+<a class="project-link" href="https://pandas.pydata.org" target="_blank">Pandas</a>
+<a class="project-link" href="https://numpy.org" target="_blank">NumPy</a>
+</div>
+<div class="category">
+<div class="category-title">Data Augmentation</div>
+<a class="project-link" href="https://librosa.org" target="_blank">Librosa</a>
+<a class="project-link" href="https://opencv.org" target="_blank">OpenCV</a>
+</div>
+<div class="category">
+<div class="category-title">Data Synth</div>
+<a class="project-link" href="https://huggingface.co/docs/hub/datasets" target="_blank">Datasets Library</a>
+<a class="project-link" href="https://faker.readthedocs.io" target="_blank">Faker</a>
+</div>
+</div></div></div>
+<div class="layer-wrapper">
+<div class="layer-label">Model Development</div>
+<div class="layer-box" style="background-color: #2196F3">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Deep Learning Frameworks</div>
+<a class="project-link" href="https://huggingface.co/docs/transformers/index" target="_blank">Transformers Library</a>
+<a class="project-link" href="https://pytorch.org" target="_blank">PyTorch</a>
+<a class="project-link" href="https://www.tensorflow.org" target="_blank">TensorFlow</a>
+</div>
+<div class="category">
+<div class="category-title">Classical ML</div>
+<a class="project-link" href="https://scikit-learn.org" target="_blank">Scikit-learn</a>
+<a class="project-link" href="https://matplotlib.org" target="_blank">Matplotlib</a>
+<a class="project-link" href="https://spacy.io" target="_blank">spaCy</a>
+</div>
+<div class="category">
+<div class="category-title">Models</div>
+<a class="project-link" href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2" target="_blank">Mistral</a>
+<a class="project-link" href="https://bigscience.huggingface.co" target="_blank">BLOOM</a>
+<a class="project-link" href="https://huggingface.co/microsoft/speecht5_tts" target="_blank">SpeechT5</a>
+</div>
+</div></div></div>
+<div class="layer-wrapper">
+<div class="layer-label">Agents & Operations</div>
+<div class="layer-box" style="background-color: #ECEFF1">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Agent Frameworks</div>
+<a class="project-link" href="https://www.langchain.com" target="_blank">LangChain</a>
+<a class="project-link" href="https://docs.crewai.com" target="_blank">CrewAI</a>
+</div>
+<div class="category">
+<div class="category-title">Model Serve</div>
+<a class="project-link" href="https://pytorch.org/serve" target="_blank">TorchServe</a>
+<a class="project-link" href="https://huggingface.co/spaces" target="_blank">Hugging Face Spaces</a>
+</div>
+<div class="category">
+<div class="category-title">Flow Control</div>
+<a class="project-link" href="https://mlflow.org" target="_blank">MLflow</a>
+<a class="project-link" href="https://dvc.org" target="_blank">DVC (Data Version Control)</a>
+</div>
+</div></div></div>
+<div class="layer-wrapper">
+<div class="layer-label">Platform Services</div>
+<div class="layer-box" style="background-color: #9E9E9E">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Vector Stores</div>
+<a class="project-link" href="https://www.trychroma.com" target="_blank">ChromaDB</a>
+<a class="project-link" href="https://milvus.io" target="_blank">Milvus</a>
+</div>
+<div class="category">
+<div class="category-title">Experiment Tracking</div>
+<a class="project-link" href="https://github.com/huggingface/accelerate" target="_blank">Accelerate</a>
+<a class="project-link" href="https://huggingface.co/PatronusAI/lynx" target="_blank">LYNX</a>
+</div>
+<div class="category">
+<div class="category-title">Benchmarks</div>
+<a class="project-link" href="https://huggingface.co/datasets/PatronusAI/HaluBench" target="_blank">HaluBench</a>
+<a class="project-link" href="https://aclanthology.org/P02-1040/" target="_blank">BLEU</a>
+</div>
+</div></div></div>
+<div class="layer-wrapper">
+<div class="layer-label">Governance & Oversight</div>
+<div class="layer-box" style="background-color: #F44336">
+<div class="category-row">
+<div class="category">
+<div class="category-title">Security & Guardrails</div>
+<a class="project-link" href="https://cryptography.io/en/latest/fernet/" target="_blank">Fernet</a>
+<a class="project-link" href="https://github.com/zerosumAI/deepsafe" target="_blank">DeepSafe</a>
+<a class="project-link" href="https://github.com/zerofox-oss/deepstar" target="_blank">Deepstar</a>
+</div>
+<div class="category">
+<div class="category-title">Licensing & Compliance</div>
+<a class="project-link" href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>
+<a class="project-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU General Public License (GPL)</a>
+<a class="project-link" href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache 2.0 License</a>
+</div>
+<div class="category">
+<div class="category-title">Ethics & Responsibility</div>
+<a class="project-link" href="https://huggingface.co/docs/hub/model-cards" target="_blank">Model Cards</a>
+<a class="project-link" href="https://fairlearn.org" target="_blank">Fairlearn</a>
+<a class="project-link" href="https://www.microsoft.com/en-us/research/project/responsible-ai-dashboard/" target="_blank">Responsible AI</a>
+</div>
+</div></div></div>
+</body>
+</html>
